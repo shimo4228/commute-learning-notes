@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2148B8"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="80" y="100" font-family="Noto Sans CJK JP" font-size="30" fill="#2148B8">判断と測定　第1回</text>
+<text x="80" y="170" font-family="Noto Serif CJK JP" font-size="54" font-weight="bold" fill="#242321">測るとは何か</text>
+<rect x="110" y="820" width="230" height="180" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="225" y="882" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="40" font-weight="bold" fill="#242321">名義尺度</text>
+<text x="225" y="935" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">区別だけ</text>
+<rect x="360" y="700" width="230" height="300" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="475" y="762" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="40" font-weight="bold" fill="#242321">順序尺度</text>
+<text x="475" y="815" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">順番も</text>
+<rect x="610" y="580" width="230" height="420" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="725" y="642" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="40" font-weight="bold" fill="#242321">間隔尺度</text>
+<text x="725" y="695" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">間隔も</text>
+<rect x="860" y="460" width="230" height="540" rx="14" fill="#FAFAF7" stroke="#2148B8" stroke-width="4"/>
+<text x="975" y="522" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="40" font-weight="bold" fill="#2148B8">比率尺度</text>
+<text x="975" y="575" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">何倍も</text>
+<line x1="200" y1="690" x2="960" y2="330" stroke="#2148B8" stroke-width="4" marker-end="url(#aa)"/>
+<text x="110" y="500" font-family="Noto Sans CJK JP" font-size="38" font-weight="bold" fill="#2148B8">言えることが増える</text>
+<line x1="110" y1="1060" x2="1090" y2="1060" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
+<text x="600" y="1125" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">許される変換が狭まる</text>
+</svg>
