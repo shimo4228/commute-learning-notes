@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#008A4B"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="80" y="100" font-family="Noto Sans CJK JP" font-size="30" fill="#008A4B">確率と情報理論　第2回</text>
+<text x="80" y="170" font-family="Noto Serif CJK JP" font-size="54" font-weight="bold" fill="#242321">条件付き確率</text>
+<text x="80" y="250" text-anchor="start" font-family="Noto Sans CJK JP" font-size="36" fill="#008A4B" font-weight="bold">世界を狭めてから数える</text>
+<rect x="80" y="500" width="200" height="100" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="180.0" y="563.68" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="38" fill="#242321">30日</text>
+<line x1="280" y1="530" x2="420" y2="410" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
+<line x1="280" y1="570" x2="420" y2="690" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
+<rect x="420" y="330" width="300" height="100" rx="14" fill="#FAFAF7" stroke="#008A4B" stroke-width="4"/>
+<text x="570.0" y="392.96" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" fill="#242321">空　10日</text>
+<rect x="420" y="650" width="300" height="100" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="570.0" y="712.24" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">空でない　20日</text>
+<line x1="720" y1="380" x2="820" y2="380" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
+<line x1="720" y1="700" x2="820" y2="700" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
+<rect x="820" y="330" width="280" height="100" rx="14" fill="#FAFAF7" stroke="#008A4B" stroke-width="4"/>
+<text x="960.0" y="392.96" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" fill="#008A4B" font-weight="bold">鳴く　8日</text>
+<rect x="820" y="650" width="280" height="100" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="960.0" y="712.96" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" fill="#242321">鳴く　4日</text>
+<text x="960" y="820" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">鳴いた日　計12日</text>
+<line x1="80" y1="880" x2="1120" y2="880" stroke="#242321" stroke-width="2"/>
+<text x="120" y="970" font-family="Noto Sans CJK JP" font-size="38" fill="#242321">空のとき鳴く　　8 ÷ <tspan fill="#008A4B" font-weight="bold">10</tspan> ＝ 0.8</text>
+<text x="120" y="1050" font-family="Noto Sans CJK JP" font-size="38" fill="#242321">鳴いたとき空　　8 ÷ <tspan fill="#008A4B" font-weight="bold">12</tspan> ≒ 0.67</text>
+</svg>

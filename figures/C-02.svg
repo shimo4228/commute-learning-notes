@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#63365F"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="80" y="100" font-family="Noto Sans CJK JP" font-size="30" fill="#63365F">概念工学　第2回</text>
+<text x="80" y="170" font-family="Noto Serif CJK JP" font-size="54" font-weight="bold" fill="#242321">先駆としてのカルナップの解明</text>
+<text x="260" y="270" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">被解明項</text>
+<rect x="80" y="290" width="360" height="120" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="260.0" y="364.4" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="40" fill="#242321">日常の「魚」</text>
+<text x="940" y="270" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#63365F">解明項</text>
+<rect x="760" y="290" width="360" height="120" rx="14" fill="#FAFAF7" stroke="#63365F" stroke-width="4"/>
+<text x="940.0" y="364.4" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="40" fill="#242321">学問の「魚」</text>
+<text x="600" y="330" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#63365F" font-weight="bold">解明</text>
+<line x1="450" y1="350" x2="750" y2="350" stroke="#63365F" stroke-width="4" marker-end="url(#aa)"/>
+<text x="600" y="400" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">鯨が外れる</text>
+<text x="600" y="540" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" fill="#242321" font-weight="bold">四つの条件</text>
+<rect x="80" y="590" width="420" height="170" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="290.0" y="664.29" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">類似性</text>
+<text x="290.0" y="710.1899999999999" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">ずれは許される</text>
+<rect x="700" y="590" width="420" height="170" rx="14" fill="#FAFAF7" stroke="#63365F" stroke-width="5"/>
+<text x="910.0" y="664.29" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#63365F" font-weight="bold">実り豊かさ</text>
+<text x="910.0" y="710.1899999999999" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#63365F" font-weight="bold">多くの法則が言える</text>
+<text x="600" y="650" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="28" fill="#242321">引っぱり合う</text>
+<line x1="510" y1="690" x2="690" y2="690" stroke="#242321" stroke-width="3" marker-end="url(#ai)" marker-start="url(#ai)"/>
+<rect x="80" y="820" width="420" height="170" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="290.0" y="894.29" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">厳密性</text>
+<text x="290.0" y="940.1899999999999" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">規則で迷わず決まる</text>
+<rect x="700" y="820" width="420" height="170" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="910.0" y="894.29" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">単純さ</text>
+<text x="910.0" y="940.1899999999999" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">最後に考える</text>
+</svg>
