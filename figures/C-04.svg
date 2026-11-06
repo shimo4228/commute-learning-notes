@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#63365F"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="80" y="100" font-family="Noto Sans CJK JP" font-size="30" fill="#63365F">概念工学　第4回</text>
+<text x="80" y="170" font-family="Noto Serif CJK JP" font-size="54" font-weight="bold" fill="#242321">直観は証拠になるか</text>
+<rect x="80" y="260" width="400" height="110" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="280" y="330" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="38" fill="#242321">想定事例を読む</text>
+<line x1="480" y1="315" x2="714" y2="315" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
+<rect x="720" y="260" width="400" height="110" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="920" y="330" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="38" fill="#242321">人々の判断</text>
+<text x="560" y="455" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">直観は何についての証拠か</text>
+<path d="M900,370 L900,500" fill="none" stroke="#242321" stroke-width="3"/>
+<path d="M300,500 L300,560" fill="none" stroke="#242321" stroke-width="3" stroke-dasharray="10 8" marker-end="url(#ai)"/>
+<path d="M900,500 L900,560" fill="none" stroke="#63365F" stroke-width="4" marker-end="url(#aa)"/>
+<path d="M300,500 L900,500" fill="none" stroke="#242321" stroke-width="3"/>
+<rect x="80" y="570" width="440" height="150" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3" stroke-dasharray="12 8"/>
+<text x="300" y="635" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" fill="#242321">世界の事実の</text>
+<text x="300" y="685" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" fill="#242321">手がかり</text>
+<rect x="680" y="570" width="440" height="150" rx="14" fill="#FAFAF7" stroke="#63365F" stroke-width="5"/>
+<text x="900" y="635" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" font-weight="bold" fill="#63365F">概念のいまの</text>
+<text x="900" y="685" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" font-weight="bold" fill="#63365F">使い方のデータ</text>
+<text x="300" y="780" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">順番や言い回しで揺れる</text>
+<text x="900" y="780" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">調査がまっすぐ教える</text>
+<line x1="900" y1="810" x2="900" y2="884" stroke="#63365F" stroke-width="4" marker-end="url(#aa)"/>
+<rect x="300" y="890" width="820" height="170" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="5"/>
+<text x="710" y="960" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="38" fill="#242321">どう使うべきかは調査で決まらない</text>
+<text x="710" y="1022" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="38" font-weight="bold" fill="#63365F">そこを引き受ける概念工学</text>
+</svg>
