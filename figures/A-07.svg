@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="80" y="100" font-family="Noto Sans CJK JP" font-size="30" fill="#2148B8">判断と測定　第7回</text>
+<text x="80" y="170" font-family="Noto Serif CJK JP" font-size="54" font-weight="bold" fill="#242321">グッドハートの四類型</text>
+<text x="330" y="300" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="40" font-weight="bold" fill="#242321">選ぶだけ</text>
+<text x="870" y="300" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="40" font-weight="bold" fill="#2148B8">手を入れる</text>
+<line x1="600" y1="250" x2="600" y2="1080" stroke="#242321" stroke-width="2" stroke-dasharray="10 10"/>
+<rect x="100" y="360" width="460" height="300" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="330" y="470" text-anchor="middle" font-family="Noto Serif CJK JP" font-size="48" font-weight="bold" fill="#242321">回帰的</text>
+<text x="330" y="560" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">外れも選ばれる</text>
+<rect x="100" y="740" width="460" height="300" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="330" y="850" text-anchor="middle" font-family="Noto Serif CJK JP" font-size="48" font-weight="bold" fill="#242321">極端</text>
+<text x="330" y="940" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">端で関係が変わる</text>
+<rect x="640" y="360" width="460" height="300" rx="16" fill="#FAFAF7" stroke="#2148B8" stroke-width="5"/>
+<text x="870" y="470" text-anchor="middle" font-family="Noto Serif CJK JP" font-size="48" font-weight="bold" fill="#2148B8">因果的</text>
+<text x="870" y="560" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">道筋が切れる</text>
+<rect x="640" y="740" width="460" height="300" rx="16" fill="#FAFAF7" stroke="#2148B8" stroke-width="5"/>
+<text x="870" y="850" text-anchor="middle" font-family="Noto Serif CJK JP" font-size="48" font-weight="bold" fill="#2148B8">敵対的</text>
+<text x="870" y="940" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">相手が指標を学ぶ</text>
+</svg>
