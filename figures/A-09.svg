@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ak" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="80" y="100" font-family="Noto Sans CJK JP" font-size="30" fill="#2148B8">判断と測定　第9回</text>
+<text x="80" y="170" font-family="Noto Serif CJK JP" font-size="54" font-weight="bold" fill="#242321">臨床判断と統計的予測</text>
+<text x="600" y="275" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" font-weight="bold" fill="#242321">同じ材料</text>
+<rect x="300" y="300" width="600" height="120" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<rect x="330" y="322" width="160" height="76" rx="10" fill="#FAFAF7" stroke="#242321" stroke-width="2"/>
+<text x="410" y="373" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">予報</text>
+<rect x="520" y="322" width="160" height="76" rx="10" fill="#FAFAF7" stroke="#242321" stroke-width="2"/>
+<text x="600" y="373" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">空</text>
+<rect x="710" y="322" width="160" height="76" rx="10" fill="#FAFAF7" stroke="#242321" stroke-width="2"/>
+<text x="790" y="373" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">気圧</text>
+<line x1="520" y1="424" x2="350" y2="512" stroke="#242321" stroke-width="3" marker-end="url(#ak)"/>
+<line x1="680" y1="424" x2="850" y2="512" stroke="#242321" stroke-width="3" marker-end="url(#ak)"/>
+<rect x="110" y="520" width="440" height="170" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="330" y="588" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">頭の中でまとめる</text>
+<text x="330" y="650" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="40" font-weight="bold" fill="#242321">臨床的な判断</text>
+<rect x="650" y="520" width="440" height="170" rx="16" fill="#FAFAF7" stroke="#2148B8" stroke-width="5"/>
+<text x="870" y="588" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#2148B8">決めた式でまとめる</text>
+<text x="870" y="650" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="40" font-weight="bold" fill="#2148B8">統計的な予測</text>
+<line x1="200" y1="900" x2="460" y2="900" stroke="#242321" stroke-width="2"/>
+<circle cx="250" cy="835" r="16" fill="#242321"/>
+<circle cx="330" cy="880" r="16" fill="#242321"/>
+<circle cx="410" cy="800" r="16" fill="#242321"/>
+<text x="330" y="965" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">揺れる</text>
+<line x1="740" y1="900" x2="1000" y2="900" stroke="#2148B8" stroke-width="2"/>
+<circle cx="790" cy="830" r="16" fill="#2148B8"/>
+<circle cx="870" cy="830" r="16" fill="#2148B8"/>
+<circle cx="950" cy="830" r="16" fill="#2148B8"/>
+<text x="870" y="965" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#2148B8">揺れない</text>
+<text x="600" y="1100" text-anchor="middle" font-family="Noto Serif CJK JP" font-size="44" font-weight="bold" fill="#242321">式は頭のまとめにほとんど負けない</text>
+</svg>

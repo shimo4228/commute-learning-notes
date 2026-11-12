@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="80" y="100" font-family="Noto Sans CJK JP" font-size="30" fill="#63365F">概念工学　第9回</text>
+<text x="80" y="170" font-family="Noto Serif CJK JP" font-size="54" font-weight="bold" fill="#242321">チャーマーズの整理</text>
+<text x="495" y="340" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="38" font-weight="bold" fill="#63365F">同じ語</text>
+<text x="905" y="340" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="38" font-weight="bold" fill="#63365F">別の語</text>
+<text x="165" y="558" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="38" font-weight="bold" fill="#63365F">再設計</text>
+<text x="165" y="838" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="38" font-weight="bold" fill="#63365F">新規設計</text>
+<line x1="300" y1="375" x2="1100" y2="375" stroke="#63365F" stroke-width="4"/>
+<line x1="280" y1="400" x2="280" y2="970" stroke="#63365F" stroke-width="4"/>
+<rect x="300" y="410" width="390" height="250" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="495" y="548" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">「ごちそう」を直す</text>
+<rect x="710" y="410" width="390" height="250" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="905" y="548" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">「手間ごはん」に替える</text>
+<rect x="300" y="690" width="390" height="250" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="495" y="828" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">新しい概念に古い語</text>
+<rect x="710" y="690" width="390" height="250" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
+<text x="905" y="828" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">「使い切りの日」</text>
+<text x="600" y="1090" text-anchor="middle" font-family="Noto Serif CJK JP" font-size="44" font-weight="bold" fill="#242321">二つの軸は別々に立つ</text>
+</svg>
