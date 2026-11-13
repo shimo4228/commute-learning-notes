@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ak" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="ab" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#2148B8"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="80" y="100" font-family="Noto Sans CJK JP" font-size="30" fill="#2148B8">判断と測定　第10回</text>
+<text x="80" y="170" font-family="Noto Serif CJK JP" font-size="54" font-weight="bold" fill="#242321">ノイズ</text>
+<text x="360" y="320" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" font-weight="bold" fill="#242321">本当</text>
+<text x="680" y="320" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" font-weight="bold" fill="#242321">真ん中</text>
+<line x1="360" y1="345" x2="360" y2="560" stroke="#242321" stroke-width="4"/>
+<line x1="680" y1="345" x2="680" y2="560" stroke="#242321" stroke-width="3" stroke-dasharray="12 10"/>
+<line x1="366" y1="430" x2="672" y2="430" stroke="#242321" stroke-width="4" marker-end="url(#ak)"/>
+<text x="520" y="410" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" font-weight="bold" fill="#242321">バイアス　2</text>
+<circle cx="520" cy="530" r="20" fill="#2148B8"/>
+<circle cx="520" cy="484" r="20" fill="#2148B8"/>
+<circle cx="840" cy="530" r="20" fill="#2148B8"/>
+<circle cx="840" cy="484" r="20" fill="#2148B8"/>
+<line x1="200" y1="560" x2="1000" y2="560" stroke="#242321" stroke-width="3"/>
+<line x1="360" y1="560" x2="360" y2="578" stroke="#242321" stroke-width="3"/>
+<line x1="520" y1="560" x2="520" y2="578" stroke="#242321" stroke-width="3"/>
+<line x1="680" y1="560" x2="680" y2="578" stroke="#242321" stroke-width="3"/>
+<line x1="840" y1="560" x2="840" y2="578" stroke="#242321" stroke-width="3"/>
+<text x="360" y="620" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">6</text>
+<text x="520" y="620" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">7</text>
+<text x="680" y="620" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">8</text>
+<text x="840" y="620" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">9</text>
+<text x="1000" y="620" text-anchor="end" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">キロ</text>
+<line x1="672" y1="680" x2="528" y2="680" stroke="#2148B8" stroke-width="4" marker-end="url(#ab)"/>
+<line x1="688" y1="680" x2="832" y2="680" stroke="#2148B8" stroke-width="4" marker-end="url(#ab)"/>
+<line x1="680" y1="664" x2="680" y2="696" stroke="#2148B8" stroke-width="4"/>
+<text x="680" y="745" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" font-weight="bold" fill="#2148B8">ノイズ　1</text>
+<text x="300" y="905" text-anchor="middle" font-family="Noto Serif CJK JP" font-size="60" font-weight="bold" fill="#242321">5</text>
+<text x="420" y="905" text-anchor="middle" font-family="Noto Serif CJK JP" font-size="60" font-weight="bold" fill="#242321">＝</text>
+<text x="580" y="905" text-anchor="middle" font-family="Noto Serif CJK JP" font-size="60" font-weight="bold" fill="#242321">2×2</text>
+<text x="740" y="905" text-anchor="middle" font-family="Noto Serif CJK JP" font-size="60" font-weight="bold" fill="#242321">＋</text>
+<text x="900" y="905" text-anchor="middle" font-family="Noto Serif CJK JP" font-size="60" font-weight="bold" fill="#2148B8">1×1</text>
+<text x="300" y="965" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">誤り</text>
+<text x="580" y="965" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">バイアス</text>
+<text x="900" y="965" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#2148B8">ノイズ</text>
+<text x="600" y="1100" text-anchor="middle" font-family="Noto Serif CJK JP" font-size="44" font-weight="bold" fill="#242321">ノイズもバイアスと同じ重さで誤りに入る</text>
+</svg>
