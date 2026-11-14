@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2148B8"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#2148B8">判断と測定　第10回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">ノイズ</text>
+<line data-step="1" x1="130" y1="580" x2="950" y2="580" stroke="#242321" stroke-width="5"/>
+<line data-step="1" x1="230" y1="565" x2="230" y2="595" stroke="#242321" stroke-width="5"/>
+<line data-step="1" x1="430" y1="565" x2="430" y2="595" stroke="#242321" stroke-width="5"/>
+<line data-step="1" x1="630" y1="565" x2="630" y2="595" stroke="#242321" stroke-width="5"/>
+<line data-step="1" x1="830" y1="565" x2="830" y2="595" stroke="#242321" stroke-width="5"/>
+<text data-step="1" x="230" y="645" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">6</text>
+<text data-step="1" x="430" y="645" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">7</text>
+<text data-step="1" x="630" y="645" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">8</text>
+<text data-step="1" x="830" y="645" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">9</text>
+<text data-step="1" x="975" y="594" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">キロ</text>
+<line data-step="2" x1="230" y1="580" x2="230" y2="340" stroke="#242321" stroke-width="5"/>
+<text data-step="2" x="230" y="315" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">本当の体重</text>
+<circle data-step="3" cx="430" cy="535" r="20" fill="#242321"/>
+<circle data-step="3" cx="430" cy="485" r="20" fill="#242321"/>
+<circle data-step="3" cx="830" cy="535" r="20" fill="#242321"/>
+<circle data-step="3" cx="830" cy="485" r="20" fill="#242321"/>
+<text data-step="3" x="870" y="498" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">四人の</text>
+<text data-step="3" x="870" y="548" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">見積もり</text>
+<line data-step="4" x1="630" y1="580" x2="630" y2="340" stroke="#242321" stroke-width="5" stroke-dasharray="14 12"/>
+<text data-step="4" x="630" y="315" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">真ん中</text>
+<line data-step="5" x1="230" y1="710" x2="627" y2="710" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<text data-step="5" x="660" y="725" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#242321">バイアス 2</text>
+<line data-step="6" x1="630" y1="768" x2="630" y2="812" stroke="#2148B8" stroke-width="7"/>
+<line data-step="6" x1="630" y1="790" x2="433" y2="790" stroke="#2148B8" stroke-width="7" marker-end="url(#aa)"/>
+<line data-step="6" x1="630" y1="790" x2="827" y2="790" stroke="#2148B8" stroke-width="7" marker-end="url(#aa)"/>
+<text data-step="6" x="870" y="805" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#2148B8">ノイズ 1</text>
+<rect data-step="7" x="60" y="855" width="400" height="150" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="7" x="260" y="912" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">ずれの二乗の平均</text>
+<text data-step="7" x="260" y="982" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="54" fill="#242321">5</text>
+<text data-step="8" x="505" y="950" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="54" fill="#242321">＝</text>
+<rect data-step="8" x="550" y="855" width="240" height="150" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="8" x="670" y="950" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="54" fill="#242321">2×2</text>
+<text data-step="9" x="835" y="950" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="54" fill="#242321">＋</text>
+<rect data-step="9" x="880" y="855" width="260" height="150" rx="16" fill="#FAFAF7" stroke="#2148B8" stroke-width="7"/>
+<text data-step="9" x="1010" y="950" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="54" fill="#2148B8">1×1</text>
+<text data-step="10" x="600" y="1100" text-anchor="middle" font-family="Noto Serif CJK JP" font-weight="bold" font-size="46" fill="#242321">ノイズもバイアスと同じ重さで誤りに入る</text>
+</svg>

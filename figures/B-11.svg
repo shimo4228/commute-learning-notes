@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#008A4B"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#008A4B">確率と情報理論　第11回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">交差エントロピー</text>
+<text data-step="1" x="600" y="295" text-anchor="middle" font-family="Noto Serif CJK JP" font-weight="bold" font-size="48" fill="#242321">H(P, Q) ＝ Σ P(x) × log2(1/Q(x))</text>
+<text data-step="2" x="600" y="375" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">幅はどちらも P、高さは驚き</text>
+<text data-step="2" x="448" y="460" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#242321">赤</text>
+<text data-step="2" x="676" y="460" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#242321">白</text>
+<text data-step="2" x="828" y="460" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#242321">青</text>
+<text data-step="2" x="1040" y="460" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#242321">平均</text>
+<text data-step="3" x="60" y="590" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#242321">本当の袋 P</text>
+<text data-step="3" x="60" y="648" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">赤2 白1 青1</text>
+<rect data-step="4" x="302.5" y="592.5" width="291" height="105" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="4" x="448" y="660" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#242321">1</text>
+<rect data-step="4" x="606.5" y="482.5" width="139" height="215" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="4" x="676" y="606" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#242321">2</text>
+<rect data-step="4" x="758.5" y="482.5" width="139" height="215" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="4" x="828" y="606" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#242321">2</text>
+<text data-step="4" x="1040" y="625" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="60" fill="#242321">1.5</text>
+<text data-step="5" x="60" y="880" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#008A4B">思い込み Q</text>
+<text data-step="5" x="60" y="938" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">赤1 白1 青2</text>
+<rect data-step="6" x="300" y="770" width="296" height="220" fill="#008A4B"/>
+<text data-step="6" x="448" y="897" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="48" fill="#FAFAF7">2</text>
+<rect data-step="6" x="604" y="770" width="144" height="220" fill="#008A4B"/>
+<text data-step="6" x="676" y="897" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="48" fill="#FAFAF7">2</text>
+<rect data-step="6" x="756" y="880" width="144" height="110" fill="#008A4B"/>
+<text data-step="6" x="828" y="952" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="48" fill="#FAFAF7">1</text>
+<text data-step="6" x="1040" y="915" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="60" fill="#008A4B">1.75</text>
+<text data-step="7" x="600" y="1110" text-anchor="middle" font-family="Noto Serif CJK JP" font-weight="bold" font-size="48" fill="#242321">どんな思い込みでも 1.5 以上</text>
+</svg>

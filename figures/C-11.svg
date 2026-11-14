@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#63365F"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#63365F">概念工学　第11回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">本質的に論争的な概念</text>
+<text data-step="1" x="600" y="262" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#63365F">手本</text>
+<rect data-step="1" x="260" y="280" width="680" height="120" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="7"/>
+<text data-step="1" x="600" y="356" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="46" fill="#63365F">昔の名人の叩き方</text>
+<line data-step="2" x1="600" y1="404" x2="600" y2="558" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<line data-step="2" x1="600" y1="490" x2="220" y2="490" stroke="#242321" stroke-width="5"/>
+<line data-step="2" x1="600" y1="490" x2="980" y2="490" stroke="#242321" stroke-width="5"/>
+<line data-step="2" x1="220" y1="490" x2="220" y2="558" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<line data-step="2" x1="980" y1="490" x2="980" y2="558" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<text data-step="2" x="625" y="462" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">どこを重く見るか</text>
+<rect data-step="3" x="60" y="570" width="320" height="140" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="3" x="220" y="655" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">音の大きさ</text>
+<rect data-step="4" x="440" y="570" width="320" height="140" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="4" x="600" y="655" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">手の速さ</text>
+<rect data-step="5" x="820" y="570" width="320" height="140" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="5" x="980" y="655" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">間の取り方</text>
+<line data-step="6" x1="220" y1="710" x2="220" y2="780" stroke="#242321" stroke-width="5"/>
+<line data-step="6" x1="980" y1="710" x2="980" y2="780" stroke="#242321" stroke-width="5"/>
+<line data-step="6" x1="220" y1="780" x2="600" y2="780" stroke="#242321" stroke-width="5"/>
+<line data-step="6" x1="980" y1="780" x2="600" y2="780" stroke="#242321" stroke-width="5"/>
+<line data-step="6" x1="600" y1="710" x2="600" y2="896" stroke="#63365F" stroke-width="7" marker-end="url(#aa)"/>
+<text data-step="6" x="628" y="852" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#63365F">互いを知って競い続ける</text>
+<rect data-step="7" x="160" y="910" width="880" height="140" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="7"/>
+<text data-step="7" x="600" y="996" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="46" fill="#63365F">手本の達成が保たれ育つ</text>
+</svg>
