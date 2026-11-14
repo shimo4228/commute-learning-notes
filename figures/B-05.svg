@@ -1,25 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#008A4B"/></marker>
+</defs>
 <rect width="1200" height="1200" fill="#FAFAF7"/>
-<text x="80" y="100" font-family="Noto Sans CJK JP" font-size="30" fill="#008A4B">確率と情報理論　第5回</text>
-<text x="80" y="170" font-family="Noto Serif CJK JP" font-size="54" font-weight="bold" fill="#242321">確率分布</text>
-<text x="80" y="270" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">散歩で会う犬の数</text>
-<text x="80" y="325" font-family="Noto Sans CJK JP" font-size="34" fill="#008A4B">確率1を値のすべてに配り分ける</text>
-<rect x="180" y="600" width="140" height="200" fill="#008A4B"/>
-<rect x="380" y="400" width="140" height="400" fill="#008A4B"/>
-<rect x="580" y="500" width="140" height="300" fill="#008A4B"/>
-<rect x="780" y="700" width="140" height="100" fill="#008A4B"/>
-<text x="250" y="580" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">0.2</text>
-<text x="450" y="380" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">0.4</text>
-<text x="650" y="480" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">0.3</text>
-<text x="850" y="680" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">0.1</text>
-<line x1="130" y1="800" x2="1000" y2="800" stroke="#242321" stroke-width="6"/>
-<text x="250" y="850" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">0匹</text>
-<text x="450" y="850" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">1匹</text>
-<text x="650" y="850" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">2匹</text>
-<text x="850" y="850" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">3匹</text>
-<path d="M510,804 L466,880 L554,880 z" fill="#242321"/>
-<text x="1060" y="700" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">足すと</text>
-<text x="1060" y="745" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">1</text>
-<text x="600" y="985" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="40" font-weight="bold" fill="#008A4B">期待値1.3匹は分布の重心</text>
-<text x="600" y="1055" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">1.3匹の日は来ない</text>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#008A4B">確率と情報理論　第5回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">確率分布</text>
+<text data-step="1" x="60" y="280" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#242321">散歩で会う犬の数</text>
+<line data-step="2" x1="130" y1="820" x2="970" y2="820" stroke="#242321" stroke-width="5"/>
+<text data-step="2" x="250" y="940" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">0匹</text>
+<text data-step="2" x="450" y="940" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">1匹</text>
+<text data-step="2" x="650" y="940" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">2匹</text>
+<text data-step="2" x="850" y="940" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">3匹</text>
+<rect data-step="3" x="180" y="640" width="140" height="180" fill="#008A4B"/>
+<text data-step="3" x="250" y="620" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">0.2</text>
+<rect data-step="4" x="380" y="460" width="140" height="360" fill="#008A4B"/>
+<text data-step="4" x="450" y="440" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">0.4</text>
+<rect data-step="5" x="580" y="550" width="140" height="270" fill="#008A4B"/>
+<text data-step="5" x="650" y="530" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">0.3</text>
+<rect data-step="6" x="780" y="730" width="140" height="90" fill="#008A4B"/>
+<text data-step="6" x="850" y="710" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">0.1</text>
+<text data-step="7" x="60" y="345" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#008A4B">確率1を値のすべてに配り分ける</text>
+<path data-step="8" d="M510,826 L480,890 L540,890 z" fill="#242321"/>
+<text data-step="8" x="600" y="1040" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="46" fill="#008A4B">期待値1.3匹は分布の重心</text>
+<text data-step="9" x="600" y="1110" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">1.3匹の日は来ない</text>
 </svg>

@@ -1,32 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
 <defs>
-<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
-<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#008A4B"/></marker>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#008A4B"/></marker>
 </defs>
 <rect width="1200" height="1200" fill="#FAFAF7"/>
-<text x="80" y="100" font-family="Noto Sans CJK JP" font-size="30" fill="#008A4B">確率と情報理論　第4回</text>
-<text x="80" y="170" font-family="Noto Serif CJK JP" font-size="54" font-weight="bold" fill="#242321">基準率の無視</text>
-<rect x="460" y="230" width="280" height="96" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="600" y="294" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="44" font-weight="bold" fill="#242321">1000人</text>
-<line x1="540" y1="326" x2="300" y2="400" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
-<line x1="660" y1="326" x2="860" y2="400" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
-<rect x="140" y="404" width="320" height="110" rx="14" fill="#FAFAF7" stroke="#008A4B" stroke-width="4"/>
-<text x="300" y="474" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="40" font-weight="bold" fill="#008A4B">病気 10人</text>
-<rect x="620" y="404" width="440" height="110" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="840" y="474" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="40" font-weight="bold" fill="#242321">病気でない 990人</text>
-<line x1="300" y1="514" x2="300" y2="606" stroke="#008A4B" stroke-width="3" marker-end="url(#aa)"/>
-<text x="320" y="572" font-family="Noto Sans CJK JP" font-size="30" fill="#008A4B">9割が陽性</text>
-<line x1="840" y1="514" x2="840" y2="606" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
-<text x="860" y="572" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">1割が陽性</text>
-<rect x="190" y="610" width="220" height="110" rx="14" fill="#008A4B"/>
-<text x="300" y="682" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="44" font-weight="bold" fill="#FAFAF7">陽性 9人</text>
-<rect x="620" y="610" width="440" height="110" rx="14" fill="#242321"/>
-<text x="840" y="682" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="44" font-weight="bold" fill="#FAFAF7">陽性 99人</text>
-<line x1="300" y1="720" x2="520" y2="806" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
-<line x1="840" y1="720" x2="680" y2="806" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
-<rect x="180" y="810" width="840" height="150" rx="14" fill="#FAFAF7" stroke="#008A4B" stroke-width="4"/>
-<text x="600" y="866" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">陽性108人のうち、病気は9人</text>
-<text x="600" y="932" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="50" font-weight="bold" fill="#008A4B">およそ0.08</text>
-<text x="600" y="1050" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" fill="#242321">事前1対99 × 尤度比9 ＝ 1対11</text>
-<text x="600" y="1120" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" font-weight="bold" fill="#008A4B">数の多い側の1割が、陽性の大半になる</text>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#008A4B">確率と情報理論　第4回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">基準率の無視</text>
+<rect data-step="1" x="460" y="230" width="280" height="110" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="1" x="600" y="302" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#242321">1000人</text>
+<line data-step="2" x1="540" y1="340" x2="300" y2="418" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<line data-step="2" x1="660" y1="340" x2="860" y2="418" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-step="2" x="110" y="425" width="380" height="110" rx="16" fill="#FAFAF7" stroke="#008A4B" stroke-width="7"/>
+<text data-step="2" x="300" y="496" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#008A4B">病気 10人</text>
+<rect data-step="2" x="620" y="425" width="480" height="110" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="2" x="860" y="496" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">病気でない 990人</text>
+<line data-step="3" x1="300" y1="540" x2="300" y2="643" stroke="#008A4B" stroke-width="7" marker-end="url(#aa)"/>
+<text data-step="3" x="330" y="605" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="bold" font-size="38" fill="#008A4B">9割が陽性</text>
+<rect data-step="3" x="180" y="650" width="240" height="110" rx="16" fill="#008A4B"/>
+<text data-step="3" x="300" y="721" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#FAFAF7">陽性 9人</text>
+<line data-step="4" x1="860" y1="540" x2="860" y2="643" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<text data-step="4" x="890" y="605" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">1割が陽性</text>
+<rect data-step="4" x="660" y="650" width="400" height="110" rx="16" fill="#242321"/>
+<text data-step="4" x="860" y="721" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#FAFAF7">陽性 99人</text>
+<line data-step="5" x1="300" y1="762" x2="520" y2="848" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<line data-step="5" x1="860" y1="762" x2="680" y2="848" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-step="5" x="160" y="855" width="880" height="180" rx="16" fill="#FAFAF7" stroke="#008A4B" stroke-width="7"/>
+<text data-step="5" x="600" y="925" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">陽性108人のうち、病気は9人</text>
+<text data-step="5" x="600" y="1005" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="58" fill="#008A4B">およそ0.08</text>
+<text data-step="6" x="600" y="1120" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#008A4B">数の多い側の1割が、陽性の大半になる</text>
 </svg>

@@ -1,42 +1,43 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
 <defs>
-<marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#008A4B"/></marker>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#008A4B"/></marker>
 </defs>
 <rect width="1200" height="1200" fill="#FAFAF7"/>
-<text x="80" y="100" font-family="Noto Sans CJK JP" font-size="30" fill="#008A4B">確率と情報理論　第8回</text>
-<text x="80" y="170" font-family="Noto Serif CJK JP" font-size="50" font-weight="bold" fill="#242321">ベイズ更新の連鎖と事前分布の役割</text>
-<text x="500" y="340" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">赤0個</text>
-<text x="720" y="340" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">赤1個</text>
-<text x="940" y="340" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">赤2個</text>
-<line x1="400" y1="500" x2="1040" y2="500" stroke="#242321" stroke-width="3"/>
-<text x="80" y="460" font-family="Noto Sans CJK JP" font-size="36" font-weight="bold" fill="#242321">事前</text>
-<rect x="435" y="440" width="130" height="60" fill="#242321"/>
-<text x="500" y="426" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">1/3</text>
-<rect x="655" y="440" width="130" height="60" fill="#242321"/>
-<text x="720" y="426" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">1/3</text>
-<rect x="875" y="440" width="130" height="60" fill="#242321"/>
-<text x="940" y="426" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">1/3</text>
-<line x1="400" y1="780" x2="1040" y2="780" stroke="#242321" stroke-width="3"/>
-<text x="80" y="740" font-family="Noto Sans CJK JP" font-size="36" font-weight="bold" fill="#242321">赤を見た</text>
-<rect x="435" y="776" width="130" height="4" fill="#242321"/>
-<text x="500" y="762" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">0</text>
-<rect x="655" y="720" width="130" height="60" fill="#242321"/>
-<text x="720" y="706" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">1/3</text>
-<rect x="875" y="660" width="130" height="120" fill="#008A4B"/>
-<text x="940" y="646" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#008A4B">2/3</text>
-<line x1="400" y1="1060" x2="1040" y2="1060" stroke="#242321" stroke-width="3"/>
-<text x="80" y="1020" font-family="Noto Sans CJK JP" font-size="36" font-weight="bold" fill="#242321">赤、赤</text>
-<rect x="435" y="1056" width="130" height="4" fill="#242321"/>
-<text x="500" y="1042" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">0</text>
-<rect x="655" y="1024" width="130" height="36" fill="#242321"/>
-<text x="720" y="1010" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">1/5</text>
-<rect x="875" y="916" width="130" height="144" fill="#008A4B"/>
-<text x="940" y="902" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#008A4B">4/5</text>
-<line x1="140" y1="520" x2="140" y2="670" stroke="#008A4B" stroke-width="4" marker-end="url(#ag)"/>
-<text x="165" y="590" font-family="Noto Sans CJK JP" font-size="28" fill="#008A4B">×尤度</text>
-<text x="165" y="630" font-family="Noto Sans CJK JP" font-size="28" fill="#008A4B">÷合計</text>
-<line x1="140" y1="800" x2="140" y2="950" stroke="#008A4B" stroke-width="4" marker-end="url(#ag)"/>
-<text x="165" y="870" font-family="Noto Sans CJK JP" font-size="28" fill="#008A4B">×尤度</text>
-<text x="165" y="910" font-family="Noto Sans CJK JP" font-size="28" fill="#008A4B">÷合計</text>
-<text x="600" y="1140" text-anchor="middle" font-family="Noto Serif CJK JP" font-size="40" font-weight="bold" fill="#242321">事後を次の事前にして続ける</text>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#008A4B">確率と情報理論　第8回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">ベイズ更新の連鎖と事前分布の役割</text>
+<text data-step="1" x="520" y="300" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">赤0個</text>
+<text data-step="1" x="740" y="300" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">赤1個</text>
+<text data-step="1" x="960" y="300" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">赤2個</text>
+<text data-step="2" x="60" y="450" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#242321">事前</text>
+<line data-step="2" x1="420" y1="470" x2="1060" y2="470" stroke="#242321" stroke-width="5"/>
+<rect data-step="2" x="455" y="410" width="130" height="60" fill="#242321"/>
+<text data-step="2" x="520" y="395" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">1/3</text>
+<rect data-step="2" x="675" y="410" width="130" height="60" fill="#242321"/>
+<text data-step="2" x="740" y="395" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">1/3</text>
+<rect data-step="2" x="895" y="410" width="130" height="60" fill="#242321"/>
+<text data-step="2" x="960" y="395" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">1/3</text>
+<line data-step="3" x1="90" y1="495" x2="90" y2="690" stroke="#008A4B" stroke-width="7" marker-end="url(#aa)"/>
+<text data-step="3" x="120" y="580" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="bold" font-size="36" fill="#008A4B">×尤度</text>
+<text data-step="3" x="120" y="625" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="bold" font-size="36" fill="#008A4B">÷合計</text>
+<text data-step="4" x="60" y="740" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#242321">赤を見た</text>
+<line data-step="4" x1="420" y1="760" x2="1060" y2="760" stroke="#242321" stroke-width="5"/>
+<rect data-step="4" x="455" y="755" width="130" height="5" fill="#242321"/>
+<text data-step="4" x="520" y="740" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">0</text>
+<rect data-step="4" x="675" y="700" width="130" height="60" fill="#242321"/>
+<text data-step="4" x="740" y="685" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">1/3</text>
+<rect data-step="4" x="895" y="640" width="130" height="120" fill="#008A4B"/>
+<text data-step="4" x="960" y="625" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="38" fill="#008A4B">2/3</text>
+<line data-step="5" x1="90" y1="785" x2="90" y2="975" stroke="#008A4B" stroke-width="7" marker-end="url(#aa)"/>
+<text data-step="5" x="120" y="865" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="bold" font-size="36" fill="#008A4B">×尤度</text>
+<text data-step="5" x="120" y="910" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="bold" font-size="36" fill="#008A4B">÷合計</text>
+<text data-step="6" x="60" y="1020" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#242321">赤、赤</text>
+<line data-step="6" x1="420" y1="1040" x2="1060" y2="1040" stroke="#242321" stroke-width="5"/>
+<rect data-step="6" x="455" y="1035" width="130" height="5" fill="#242321"/>
+<text data-step="6" x="520" y="1020" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">0</text>
+<rect data-step="6" x="675" y="1004" width="130" height="36" fill="#242321"/>
+<text data-step="6" x="740" y="989" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">1/5</text>
+<rect data-step="6" x="895" y="896" width="130" height="144" fill="#008A4B"/>
+<text data-step="6" x="960" y="881" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="38" fill="#008A4B">4/5</text>
+<text data-step="7" x="600" y="1135" text-anchor="middle" font-family="Noto Serif CJK JP" font-weight="bold" font-size="42" fill="#242321">事後を次の事前にして続ける</text>
 </svg>

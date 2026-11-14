@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
 <defs>
-<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
-<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2148B8"/></marker>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2148B8"/></marker>
 </defs>
 <rect width="1200" height="1200" fill="#FAFAF7"/>
-<text x="80" y="100" font-family="Noto Sans CJK JP" font-size="30" fill="#2148B8">判断と測定　第5回</text>
-<text x="80" y="170" font-family="Noto Serif CJK JP" font-size="54" font-weight="bold" fill="#242321">メシックの統一的妥当性論</text>
-<rect x="80" y="300" width="300" height="110" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="230" y="370" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="38" fill="#242321">内容的</text>
-<rect x="450" y="300" width="300" height="110" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="600" y="370" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="38" fill="#242321">基準関連</text>
-<rect x="820" y="300" width="300" height="110" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="970" y="370" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="38" fill="#242321">構成概念的</text>
-<text x="600" y="262" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">三種類の妥当性でなく、違う種類の証拠</text>
-<line x1="230" y1="410" x2="470" y2="570" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
-<line x1="600" y1="410" x2="600" y2="566" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
-<line x1="970" y1="410" x2="730" y2="570" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
-<rect x="250" y="575" width="700" height="190" rx="16" fill="#FAFAF7" stroke="#2148B8" stroke-width="5"/>
-<text x="600" y="645" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="42" font-weight="bold" fill="#2148B8">一つの構成概念妥当性</text>
-<text x="600" y="715" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">点をこう読み、こう使ってよいか</text>
-<line x1="600" y1="765" x2="600" y2="850" stroke="#2148B8" stroke-width="4" marker-end="url(#aa)"/>
-<rect x="170" y="860" width="860" height="22" rx="11" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<rect x="170" y="860" width="560" height="22" rx="11" fill="#2148B8"/>
-<text x="170" y="945" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">弱い</text>
-<text x="1030" y="945" text-anchor="end" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">強い</text>
-<text x="600" y="1060" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="38" font-weight="bold" fill="#2148B8">二択でなく、程度の判断</text>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#2148B8">判断と測定　第5回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">メシックの統一的妥当性論</text>
+<rect data-step="1" x="60" y="300" width="340" height="120" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="1" x="230" y="376" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">内容的</text>
+<rect data-step="1" x="430" y="300" width="340" height="120" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="1" x="600" y="376" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">基準関連</text>
+<rect data-step="1" x="800" y="300" width="340" height="120" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="1" x="970" y="376" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">構成概念的</text>
+<text data-step="2" x="600" y="268" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">三つは違う種類の証拠</text>
+<line data-step="3" x1="230" y1="426" x2="455" y2="572" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<line data-step="3" x1="600" y1="426" x2="600" y2="570" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<line data-step="3" x1="970" y1="426" x2="745" y2="572" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-step="4" x="160" y="580" width="880" height="190" rx="16" fill="#FAFAF7" stroke="#2148B8" stroke-width="7"/>
+<text data-step="4" x="600" y="655" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="48" fill="#2148B8">一つの構成概念妥当性</text>
+<text data-step="4" x="600" y="728" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#2148B8">点をこう読み、こう使ってよいか</text>
+<line data-step="5" x1="600" y1="776" x2="600" y2="852" stroke="#2148B8" stroke-width="7" marker-end="url(#aa)"/>
+<rect data-step="6" x="160" y="865" width="880" height="34" rx="17" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="6" x="160" y="955" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">弱い</text>
+<text data-step="6" x="1040" y="955" text-anchor="end" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">強い</text>
+<rect data-step="7" x="160" y="865" width="580" height="34" rx="17" fill="#2148B8"/>
+<text data-step="8" x="600" y="1080" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="46" fill="#2148B8">妥当性は程度で判断する</text>
 </svg>

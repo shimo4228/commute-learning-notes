@@ -1,31 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
 <defs>
-<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
-<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#63365F"/></marker>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#63365F"/></marker>
 </defs>
 <rect width="1200" height="1200" fill="#FAFAF7"/>
-<text x="80" y="100" font-family="Noto Sans CJK JP" font-size="30" fill="#63365F">概念工学　第5回</text>
-<text x="80" y="170" font-family="Noto Serif CJK JP" font-size="54" font-weight="bold" fill="#242321">意味は頭の中にない</text>
-<text x="280" y="285" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" font-weight="bold" fill="#242321">地球</text>
-<text x="920" y="285" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" font-weight="bold" fill="#242321">双子地球</text>
-<rect x="80" y="320" width="400" height="130" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="280" y="398" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" fill="#242321">「水」と言う</text>
-<rect x="720" y="320" width="400" height="130" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="920" y="398" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" fill="#242321">「水」と言う</text>
-<line x1="490" y1="385" x2="710" y2="385" stroke="#242321" stroke-width="3" stroke-dasharray="10 8"/>
-<text x="600" y="360" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">頭の中は</text>
-<text x="600" y="430" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">同じ</text>
-<line x1="280" y1="450" x2="280" y2="594" stroke="#63365F" stroke-width="4" marker-end="url(#aa)"/>
-<line x1="920" y1="450" x2="920" y2="594" stroke="#63365F" stroke-width="4" marker-end="url(#aa)"/>
-<text x="300" y="535" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">指す</text>
-<text x="940" y="535" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">指す</text>
-<rect x="130" y="600" width="300" height="120" rx="14" fill="#FAFAF7" stroke="#63365F" stroke-width="5"/>
-<text x="280" y="678" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="44" font-weight="bold" fill="#63365F">H2O</text>
-<rect x="770" y="600" width="300" height="120" rx="14" fill="#FAFAF7" stroke="#63365F" stroke-width="5"/>
-<text x="920" y="678" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="44" font-weight="bold" fill="#63365F">XYZ</text>
-<text x="600" y="675" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#63365F">違う</text>
-<text x="600" y="830" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">1750年　誰も見分けられなくても</text>
-<rect x="160" y="880" width="880" height="170" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="5"/>
-<text x="600" y="950" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="38" fill="#242321">言葉の当てはまる範囲は</text>
-<text x="600" y="1012" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="38" font-weight="bold" fill="#63365F">世界のあり方で決まる</text>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#63365F">概念工学　第5回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">意味は頭の中にない</text>
+<text data-step="1" x="270" y="282" font-size="42" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" fill="#242321">地球</text>
+<rect data-step="1" x="60" y="310" width="420" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="1" x="270" y="391" font-size="44" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">「水」と言う</text>
+<text data-step="2" x="930" y="282" font-size="42" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" fill="#242321">双子地球</text>
+<rect data-step="2" x="720" y="310" width="420" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="2" x="930" y="391" font-size="44" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">「水」と言う</text>
+<line data-step="3" x1="492" y1="375" x2="708" y2="375" stroke="#242321" stroke-width="5" stroke-dasharray="14 10"/>
+<text data-step="3" x="600" y="352" font-size="38" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">頭の中は</text>
+<text data-step="3" x="600" y="424" font-size="38" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">同じ</text>
+<line data-step="4" x1="270" y1="440" x2="270" y2="588" stroke="#63365F" stroke-width="7" marker-end="url(#aa)"/>
+<text data-step="4" x="296" y="528" font-size="40" font-family="Noto Sans CJK JP" font-weight="bold" fill="#63365F">指す</text>
+<rect data-step="4" x="110" y="600" width="320" height="130" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="7"/>
+<text data-step="4" x="270" y="684" font-size="52" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" fill="#63365F">H2O</text>
+<line data-step="5" x1="930" y1="440" x2="930" y2="588" stroke="#63365F" stroke-width="7" marker-end="url(#aa)"/>
+<text data-step="5" x="956" y="528" font-size="40" font-family="Noto Sans CJK JP" font-weight="bold" fill="#63365F">指す</text>
+<rect data-step="5" x="770" y="600" width="320" height="130" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="7"/>
+<text data-step="5" x="930" y="684" font-size="52" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" fill="#63365F">XYZ</text>
+<text data-step="5" x="600" y="680" font-size="40" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#63365F">違う</text>
+<text data-step="6" x="600" y="830" font-size="40" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">1750年には誰も見分けられない</text>
+<rect data-step="7" x="60" y="880" width="1080" height="200" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="7"/>
+<text data-step="7" x="600" y="960" font-size="44" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">言葉の当てはまる範囲は</text>
+<text data-step="7" x="600" y="1030" font-size="46" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" fill="#63365F">世界のあり方で決まる</text>
 </svg>

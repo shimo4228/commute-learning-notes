@@ -1,28 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
 <defs>
-<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
-<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#63365F"/></marker>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#63365F"/></marker>
 </defs>
 <rect width="1200" height="1200" fill="#FAFAF7"/>
-<text x="80" y="100" font-family="Noto Sans CJK JP" font-size="30" fill="#63365F">概念工学　第7回</text>
-<text x="80" y="170" font-family="Noto Serif CJK JP" font-size="54" font-weight="bold" fill="#242321">話題の連続性の問題</text>
-<rect x="320" y="260" width="560" height="120" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="600" y="334" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="40" fill="#242321">「同じ話か」と問われたら</text>
-<line x1="600" y1="380" x2="600" y2="420" stroke="#242321" stroke-width="3"/>
-<text x="600" y="466" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">元の問いの始め方は</text>
-<path d="M310,500 L890,500" fill="none" stroke="#242321" stroke-width="3"/>
-<line x1="600" y1="486" x2="600" y2="500" stroke="#242321" stroke-width="3"/>
-<line x1="310" y1="500" x2="310" y2="554" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
-<line x1="890" y1="500" x2="890" y2="554" stroke="#63365F" stroke-width="4" marker-end="url(#aa)"/>
-<rect x="80" y="560" width="460" height="130" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="310" y="638" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" fill="#242321">意味を変えない探究</text>
-<rect x="660" y="560" width="460" height="130" rx="14" fill="#FAFAF7" stroke="#63365F" stroke-width="5"/>
-<text x="890" y="638" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" font-weight="bold" fill="#63365F">意味の変化を許す探究</text>
-<line x1="310" y1="690" x2="310" y2="814" stroke="#242321" stroke-width="3" stroke-dasharray="10 8" marker-end="url(#ai)"/>
-<line x1="890" y1="690" x2="890" y2="814" stroke="#63365F" stroke-width="4" stroke-dasharray="10 8" marker-end="url(#aa)"/>
-<rect x="80" y="820" width="460" height="120" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="310" y="893" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">変えれば話題の取り替え</text>
-<rect x="660" y="820" width="460" height="120" rx="14" fill="#FAFAF7" stroke="#63365F" stroke-width="5"/>
-<text x="890" y="893" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" font-weight="bold" fill="#63365F">目的が続けば同じ話</text>
-<text x="600" y="1060" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">話題は意味より粗く数える</text>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#63365F">概念工学　第7回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">話題の連続性の問題</text>
+<rect data-step="1" x="260" y="240" width="680" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="1" x="600" y="321" font-size="44" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">「同じ話か」と問われたら</text>
+<line data-step="2" x1="600" y1="370" x2="600" y2="420" stroke="#242321" stroke-width="5"/>
+<text data-step="2" x="600" y="470" font-size="40" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">元の問いの始め方は</text>
+<path data-step="2" d="M600,488 L600,512 M310,512 L890,512" fill="none" stroke="#242321" stroke-width="5"/>
+<line data-step="3" x1="310" y1="512" x2="310" y2="568" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-step="3" x="60" y="580" width="500" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="3" x="310" y="660" font-size="42" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">意味を変えない探究</text>
+<line data-step="4" x1="890" y1="512" x2="890" y2="562" stroke="#63365F" stroke-width="7" marker-end="url(#aa)"/>
+<rect data-step="4" x="640" y="580" width="500" height="130" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="7"/>
+<text data-step="4" x="890" y="660" font-size="42" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" fill="#63365F">意味の変化を許す探究</text>
+<line data-step="5" x1="310" y1="710" x2="310" y2="808" stroke="#242321" stroke-width="5" stroke-dasharray="14 10" marker-end="url(#ai)"/>
+<rect data-step="5" x="60" y="820" width="500" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="5" x="310" y="900" font-size="42" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">変えれば話題の取り替え</text>
+<line data-step="6" x1="890" y1="710" x2="890" y2="802" stroke="#63365F" stroke-width="7" stroke-dasharray="14 10" marker-end="url(#aa)"/>
+<rect data-step="6" x="640" y="820" width="500" height="130" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="7"/>
+<text data-step="6" x="890" y="900" font-size="42" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" fill="#63365F">目的が続けば同じ話</text>
+<text data-step="7" x="600" y="1080" font-size="44" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">話題は意味より粗く数える</text>
 </svg>

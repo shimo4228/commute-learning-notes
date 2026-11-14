@@ -1,29 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
 <defs>
-<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
-<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#008A4B"/></marker>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#008A4B"/></marker>
 </defs>
 <rect width="1200" height="1200" fill="#FAFAF7"/>
-<text x="80" y="100" font-family="Noto Sans CJK JP" font-size="30" fill="#008A4B">確率と情報理論　第3回</text>
-<text x="80" y="170" font-family="Noto Serif CJK JP" font-size="54" font-weight="bold" fill="#242321">ベイズの定理</text>
-<rect x="140" y="240" width="920" height="100" rx="14" fill="#FAFAF7" stroke="#008A4B" stroke-width="4"/>
-<text x="600" y="306" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="44" fill="#008A4B" font-weight="bold">事後オッズ ＝ 事前オッズ × 尤度比</text>
-<text x="600" y="430" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">しぼんだタイヤは、パンクか、自然に抜けたか</text>
-<rect x="160" y="480" width="480" height="120" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="330" y="558" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="52" fill="#242321" font-weight="bold">1対4</text>
-<text x="520" y="552" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">確率0.2</text>
-<rect x="160" y="680" width="480" height="120" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="330" y="758" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="52" fill="#242321" font-weight="bold">3対4</text>
-<text x="520" y="752" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">確率0.43</text>
-<rect x="160" y="880" width="480" height="120" rx="14" fill="#FAFAF7" stroke="#008A4B" stroke-width="4"/>
-<text x="330" y="958" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="52" fill="#008A4B" font-weight="bold">3対1</text>
-<text x="520" y="952" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">確率0.75</text>
-<text x="110" y="554" text-anchor="end" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">事前</text>
-<line x1="400" y1="600" x2="400" y2="676" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
-<text x="700" y="656" text-anchor="start" font-family="Noto Sans CJK JP" font-size="48" fill="#008A4B" font-weight="bold">×3</text>
-<text x="800" y="652" text-anchor="start" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">砂利道を走った</text>
-<line x1="400" y1="800" x2="400" y2="876" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
-<text x="700" y="856" text-anchor="start" font-family="Noto Sans CJK JP" font-size="48" fill="#008A4B" font-weight="bold">×4</text>
-<text x="800" y="852" text-anchor="start" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">またしぼんだ</text>
-<text x="600" y="1110" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="40" fill="#008A4B" font-weight="bold">証拠が来るたびに尤度比を掛ける</text>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#008A4B">確率と情報理論　第3回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">ベイズの定理</text>
+<rect data-step="1" x="60" y="230" width="1080" height="120" rx="16" fill="#FAFAF7" stroke="#008A4B" stroke-width="7"/>
+<text data-step="1" x="600" y="307" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="46" fill="#008A4B">事後オッズ ＝ 事前オッズ × 尤度比</text>
+<text data-step="2" x="600" y="425" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">タイヤはパンクか、自然に抜けたか</text>
+<text data-step="3" x="60" y="560" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">事前</text>
+<rect data-step="3" x="170" y="480" width="400" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="3" x="370" y="565" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="56" fill="#242321">1対4</text>
+<line data-step="4" x1="370" y1="615" x2="370" y2="700" stroke="#008A4B" stroke-width="7" marker-end="url(#aa)"/>
+<text data-step="4" x="420" y="675" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="bold" font-size="50" fill="#008A4B">×3</text>
+<text data-step="4" x="510" y="672" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">砂利道を走った</text>
+<rect data-step="5" x="170" y="705" width="400" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="5" x="370" y="790" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="56" fill="#242321">3対4</text>
+<line data-step="6" x1="370" y1="840" x2="370" y2="925" stroke="#008A4B" stroke-width="7" marker-end="url(#aa)"/>
+<text data-step="6" x="420" y="900" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="bold" font-size="50" fill="#008A4B">×4</text>
+<text data-step="6" x="510" y="897" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">またしぼんだ</text>
+<rect data-step="7" x="170" y="930" width="400" height="130" rx="16" fill="#FAFAF7" stroke="#008A4B" stroke-width="7"/>
+<text data-step="7" x="370" y="1015" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="56" fill="#008A4B">3対1</text>
+<text data-step="7" x="620" y="1012" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">確率0.75</text>
+<text data-step="8" x="600" y="1135" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#008A4B">証拠ごとに尤度比を掛ける</text>
 </svg>

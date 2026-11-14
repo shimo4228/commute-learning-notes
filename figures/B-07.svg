@@ -1,30 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
 <defs>
-<marker id="ag" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#008A4B"/></marker>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#008A4B"/></marker>
 </defs>
 <rect width="1200" height="1200" fill="#FAFAF7"/>
-<text x="80" y="100" font-family="Noto Sans CJK JP" font-size="30" fill="#008A4B">確率と情報理論　第7回</text>
-<text x="80" y="170" font-family="Noto Serif CJK JP" font-size="54" font-weight="bold" fill="#242321">尤度と最尤推定</text>
-<text x="80" y="260" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">ビー玉4個の袋から、赤、白と出た</text>
-<text x="80" y="340" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">尤度（16分の）</text>
-<rect x="215" y="785" width="110" height="5" fill="#242321"/>
-<rect x="385" y="565" width="110" height="225" fill="#242321"/>
-<rect x="555" y="490" width="110" height="300" fill="#008A4B"/>
-<rect x="725" y="565" width="110" height="225" fill="#242321"/>
-<rect x="895" y="785" width="110" height="5" fill="#242321"/>
-<text x="270" y="760" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">0</text>
-<text x="440" y="545" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">3</text>
-<text x="610" y="470" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" font-weight="bold" fill="#008A4B">4</text>
-<text x="780" y="545" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">3</text>
-<text x="950" y="760" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">0</text>
-<line x1="170" y1="790" x2="1050" y2="790" stroke="#242321" stroke-width="4"/>
-<text x="270" y="840" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">0</text>
-<text x="440" y="840" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">1</text>
-<text x="610" y="840" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">2</text>
-<text x="780" y="840" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">3</text>
-<text x="950" y="840" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">4</text>
-<text x="610" y="895" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">袋の中の赤の数（仮説）</text>
-<text x="950" y="420" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" font-weight="bold" fill="#008A4B">頂上が最尤推定</text>
-<line x1="850" y1="440" x2="680" y2="490" stroke="#008A4B" stroke-width="4" marker-end="url(#ag)"/>
-<text x="600" y="1010" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="38" font-weight="bold" fill="#008A4B">データを固定して、仮説を動かす</text>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#008A4B">確率と情報理論　第7回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">尤度と最尤推定</text>
+<text data-step="1" x="60" y="270" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">ビー玉4個の袋から、赤、白と出た</text>
+<line data-step="2" x1="170" y1="790" x2="1050" y2="790" stroke="#242321" stroke-width="5"/>
+<text data-step="2" x="270" y="845" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">0</text>
+<text data-step="2" x="440" y="845" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">1</text>
+<text data-step="2" x="610" y="845" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">2</text>
+<text data-step="2" x="780" y="845" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">3</text>
+<text data-step="2" x="950" y="845" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">4</text>
+<text data-step="2" x="610" y="905" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">袋の中の赤の数（仮説）</text>
+<text data-step="3" x="60" y="360" text-anchor="start" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">尤度（16分の）</text>
+<rect data-step="3" x="215" y="785" width="110" height="5" fill="#242321"/>
+<text data-step="3" x="270" y="765" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">0</text>
+<rect data-step="3" x="385" y="565" width="110" height="225" fill="#242321"/>
+<text data-step="3" x="440" y="545" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">3</text>
+<rect data-step="3" x="725" y="565" width="110" height="225" fill="#242321"/>
+<text data-step="3" x="780" y="545" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">3</text>
+<rect data-step="3" x="895" y="785" width="110" height="5" fill="#242321"/>
+<text data-step="3" x="950" y="765" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">0</text>
+<rect data-step="4" x="555" y="490" width="110" height="300" fill="#008A4B"/>
+<text data-step="4" x="610" y="470" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#008A4B">4</text>
+<text data-step="5" x="950" y="420" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#008A4B">頂上が最尤推定</text>
+<line data-step="5" x1="840" y1="442" x2="684" y2="487" stroke="#008A4B" stroke-width="7" marker-end="url(#aa)"/>
+<text data-step="6" x="600" y="1010" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#008A4B">データを固定して、仮説を動かす</text>
 </svg>

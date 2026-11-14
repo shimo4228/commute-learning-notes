@@ -1,34 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
 <defs>
-<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
-<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#63365F"/></marker>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#63365F"/></marker>
 </defs>
 <rect width="1200" height="1200" fill="#FAFAF7"/>
-<text x="80" y="100" font-family="Noto Sans CJK JP" font-size="30" fill="#63365F">概念工学　第6回</text>
-<text x="80" y="170" font-family="Noto Serif CJK JP" font-size="54" font-weight="bold" fill="#242321">ハスランガーの改良的分析</text>
-<rect x="400" y="250" width="400" height="110" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="600" y="320" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="40" fill="#242321">Xとは何か</text>
-<path d="M600,360 L600,400 M240,400 L960,400" fill="none" stroke="#242321" stroke-width="3"/>
-<line x1="240" y1="400" x2="240" y2="464" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
-<line x1="600" y1="400" x2="600" y2="464" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
-<line x1="960" y1="400" x2="960" y2="464" stroke="#63365F" stroke-width="4" marker-end="url(#aa)"/>
-<rect x="80" y="470" width="320" height="120" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="240" y="543" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" fill="#242321">概念的な問い</text>
-<rect x="440" y="470" width="320" height="120" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="600" y="543" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" fill="#242321">記述的な問い</text>
-<rect x="800" y="470" width="320" height="120" rx="14" fill="#FAFAF7" stroke="#63365F" stroke-width="5"/>
-<text x="960" y="543" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" font-weight="bold" fill="#63365F">改良的な問い</text>
-<text x="600" y="680" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">確かめる相手</text>
-<line x1="240" y1="590" x2="240" y2="744" stroke="#242321" stroke-width="3" stroke-dasharray="10 8" marker-end="url(#ai)"/>
-<line x1="960" y1="590" x2="960" y2="744" stroke="#63365F" stroke-width="4" stroke-dasharray="10 8" marker-end="url(#aa)"/>
-<line x1="600" y1="590" x2="600" y2="640" stroke="#242321" stroke-width="3" stroke-dasharray="10 8"/>
-<line x1="600" y1="700" x2="600" y2="744" stroke="#242321" stroke-width="3" stroke-dasharray="10 8" marker-end="url(#ai)"/>
-<rect x="80" y="750" width="320" height="110" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="240" y="818" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">使い手の判断</text>
-<rect x="440" y="750" width="320" height="110" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="600" y="818" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#242321">世界のまとまり</text>
-<rect x="800" y="750" width="320" height="110" rx="14" fill="#FAFAF7" stroke="#63365F" stroke-width="5"/>
-<text x="960" y="818" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" font-weight="bold" fill="#63365F">正当な目的</text>
-<text x="600" y="990" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="42" font-weight="bold" fill="#63365F">目的から定義を導く</text>
-<text x="600" y="1060" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="32" fill="#242321">定める責任は私たちの側にある</text>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#63365F">概念工学　第6回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">ハスランガーの改良的分析</text>
+<rect data-step="1" x="390" y="240" width="420" height="120" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="1" x="600" y="317" font-size="46" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">Xとは何か</text>
+<path data-step="2" d="M600,360 L600,400 M230,400 L600,400" fill="none" stroke="#242321" stroke-width="5"/>
+<line data-step="2" x1="230" y1="400" x2="230" y2="458" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-step="2" x="60" y="470" width="340" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="2" x="230" y="550" font-size="42" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">概念的な問い</text>
+<line data-step="3" x1="600" y1="400" x2="600" y2="458" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-step="3" x="430" y="470" width="340" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="3" x="600" y="550" font-size="42" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">記述的な問い</text>
+<path data-step="4" d="M600,400 L970,400" fill="none" stroke="#242321" stroke-width="5"/>
+<line data-step="4" x1="970" y1="400" x2="970" y2="452" stroke="#63365F" stroke-width="7" marker-end="url(#aa)"/>
+<rect data-step="4" x="800" y="470" width="340" height="130" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="7"/>
+<text data-step="4" x="970" y="550" font-size="42" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" fill="#63365F">改良的な問い</text>
+<text data-step="5" x="600" y="688" font-size="38" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">確かめる相手</text>
+<line data-step="5" x1="230" y1="600" x2="230" y2="738" stroke="#242321" stroke-width="5" stroke-dasharray="14 10" marker-end="url(#ai)"/>
+<rect data-step="5" x="60" y="750" width="340" height="120" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="5" x="230" y="825" font-size="42" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">使い手の判断</text>
+<line data-step="6" x1="600" y1="600" x2="600" y2="645" stroke="#242321" stroke-width="5" stroke-dasharray="14 10"/>
+<line data-step="6" x1="600" y1="705" x2="600" y2="738" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-step="6" x="430" y="750" width="340" height="120" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="6" x="600" y="825" font-size="42" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">世界のまとまり</text>
+<line data-step="7" x1="970" y1="600" x2="970" y2="732" stroke="#63365F" stroke-width="7" stroke-dasharray="14 10" marker-end="url(#aa)"/>
+<rect data-step="7" x="800" y="750" width="340" height="120" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="7"/>
+<text data-step="7" x="970" y="825" font-size="42" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" fill="#63365F">正当な目的</text>
+<text data-step="8" x="600" y="990" font-size="50" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" fill="#63365F">目的から定義を導く</text>
+<text data-step="9" x="600" y="1075" font-size="40" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">定める責任は私たちの側にある</text>
 </svg>

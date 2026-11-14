@@ -1,33 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
 <defs>
-<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
-<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#63365F"/></marker>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#63365F"/></marker>
 </defs>
 <rect width="1200" height="1200" fill="#FAFAF7"/>
-<text x="80" y="100" font-family="Noto Sans CJK JP" font-size="30" fill="#63365F">概念工学　第3回</text>
-<text x="80" y="170" font-family="Noto Serif CJK JP" font-size="54" font-weight="bold" fill="#242321">伝統的な概念分析とその行き詰まり</text>
-<rect x="80" y="250" width="320" height="100" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="240" y="313" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" fill="#242321">真である</text>
-<path d="M240,350 L240,400 L600,400" fill="none" stroke="#242321" stroke-width="3"/>
-<rect x="440" y="250" width="320" height="100" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="600" y="313" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" fill="#242321">信じている</text>
-<path d="M600,350 L600,400 L600,400" fill="none" stroke="#242321" stroke-width="3"/>
-<rect x="800" y="250" width="320" height="100" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="960" y="313" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="36" fill="#242321">理由がある</text>
-<path d="M960,350 L960,400 L600,400" fill="none" stroke="#242321" stroke-width="3"/>
-<line x1="600" y1="400" x2="600" y2="470" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
-<rect x="470" y="476" width="260" height="100" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="600" y="540" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="40" fill="#242321" font-weight="bold">知識</text>
-<rect x="760" y="420" width="400" height="200" rx="14" fill="#FAFAF7" stroke="#63365F" stroke-width="4"/>
-<text x="960" y="480" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="34" fill="#63365F" font-weight="bold">ゲティア事例</text>
-<text x="960" y="532" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">三つ揃っても知識でない</text>
-<text x="960" y="580" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="30" fill="#242321">理由と真が運でつながる</text>
-<line x1="760" y1="526" x2="736" y2="526" stroke="#63365F" stroke-width="4" marker-end="url(#aa)"/>
-<rect x="110" y="760" width="360" height="120" rx="14" fill="#FAFAF7" stroke="#242321" stroke-width="3"/>
-<text x="290" y="833" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="38" fill="#242321">条件を足す</text>
-<rect x="730" y="760" width="360" height="120" rx="14" fill="#FAFAF7" stroke="#63365F" stroke-width="4"/>
-<text x="910" y="833" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="38" fill="#63365F" font-weight="bold">新しい反例</text>
-<path d="M470,790 C560,740 640,740 724,790" fill="none" stroke="#242321" stroke-width="3" marker-end="url(#ai)"/>
-<path d="M730,850 C640,900 560,900 476,850" fill="none" stroke="#63365F" stroke-width="3" marker-end="url(#aa)"/>
-<text x="600" y="1040" text-anchor="middle" font-family="Noto Sans CJK JP" font-size="40" fill="#63365F" font-weight="bold">定義は見つからなかった</text>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#63365F">概念工学　第3回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">伝統的な概念分析とその行き詰まり</text>
+<rect data-step="1" x="60" y="250" width="340" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="1" x="230" y="331" font-size="44" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">真である</text>
+<rect data-step="2" x="430" y="250" width="340" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="2" x="600" y="331" font-size="44" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">信じている</text>
+<rect data-step="3" x="800" y="250" width="340" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="3" x="970" y="331" font-size="44" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">理由がある</text>
+<path data-step="4" d="M230,380 L230,410 L970,410 L970,380 M600,380 L600,410" fill="none" stroke="#242321" stroke-width="5"/>
+<line data-step="4" x1="600" y1="410" x2="600" y2="444" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-step="4" x="430" y="450" width="340" height="120" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="4" x="600" y="528" font-size="48" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" fill="#242321">知識</text>
+<line data-step="5" x1="600" y1="640" x2="600" y2="584" stroke="#63365F" stroke-width="7" marker-end="url(#aa)"/>
+<rect data-step="5" x="60" y="645" width="1080" height="215" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="7"/>
+<text data-step="5" x="600" y="712" font-size="44" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" fill="#63365F">ゲティア事例</text>
+<text data-step="5" x="600" y="774" font-size="42" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" fill="#63365F">三つ揃っても知識でない</text>
+<text data-step="5" x="600" y="832" font-size="42" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" fill="#63365F">理由と真が運でつながる</text>
+<rect data-step="6" x="60" y="910" width="380" height="120" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="6" x="250" y="987" font-size="44" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" fill="#242321">条件を足す</text>
+<line data-step="6" x1="452" y1="945" x2="742" y2="945" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-step="7" x="760" y="910" width="380" height="120" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="7"/>
+<text data-step="7" x="950" y="987" font-size="44" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" fill="#63365F">新しい反例</text>
+<line data-step="7" x1="748" y1="995" x2="460" y2="995" stroke="#63365F" stroke-width="7" marker-end="url(#aa)"/>
+<text data-step="8" x="600" y="1125" font-size="46" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" fill="#63365F">定義は見つからなかった</text>
 </svg>
