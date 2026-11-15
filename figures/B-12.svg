@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#008A4B">確率と情報理論　第12回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">KL ダイバージェンス</text>
+<text data-step="1" x="600" y="300" text-anchor="middle" font-family="Noto Serif CJK JP" font-weight="bold" font-size="54" fill="#242321">D(P||Q) ＝ H(P, Q) − H(P)</text>
+<text data-step="2" x="600" y="395" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">P 本当の出方　　Q 思い込み</text>
+<text data-step="3" x="60" y="530" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#242321">交差エントロピー H(P, Q)</text>
+<rect data-step="3" x="62.5" y="557.5" width="977.5" height="125" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="3" x="551" y="640" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="52" fill="#242321">1.75</text>
+<text data-step="4" x="60" y="785" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#242321">エントロピー H(P)</text>
+<rect data-step="4" x="62.5" y="812.5" width="837.5" height="125" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="4" x="481" y="895" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="52" fill="#242321">1.5</text>
+<rect data-step="5" x="900" y="810" width="142.5" height="130" fill="#008A4B"/>
+<text data-step="5" x="971" y="892" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#FAFAF7">0.25</text>
+<text data-step="5" x="971" y="1020" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#008A4B">思い込みの分</text>
+</svg>

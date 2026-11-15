@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2148B8"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#2148B8">判断と測定　第12回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">コリンズの暗黙知の三分類</text>
+<text data-step="1" x="60" y="262" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">下ほど書き出しにくい</text>
+<line data-step="1" x1="120" y1="300" x2="120" y2="786" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-step="2" x="200" y="300" width="940" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="2" x="240" y="383" font-family="Noto Sans CJK JP" font-weight="bold" font-size="48" fill="#242321">関係的</text>
+<text data-step="2" x="440" y="383" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">書けば伝わる</text>
+<rect data-step="3" x="200" y="480" width="940" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="3" x="240" y="563" font-family="Noto Sans CJK JP" font-weight="bold" font-size="48" fill="#242321">身体的</text>
+<text data-step="3" x="440" y="563" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">書けても体が使えない</text>
+<rect data-step="4" x="200" y="660" width="940" height="130" rx="16" fill="#FAFAF7" stroke="#2148B8" stroke-width="7"/>
+<text data-step="4" x="240" y="743" font-family="Noto Sans CJK JP" font-weight="bold" font-size="48" fill="#2148B8">集合的</text>
+<text data-step="4" x="440" y="743" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#242321">集まりの中で身につく</text>
+<line data-step="5" x1="780" y1="798" x2="780" y2="905" stroke="#2148B8" stroke-width="7" marker-end="url(#aa)"/>
+<text data-step="5" x="815" y="866" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#2148B8">言葉に浸る</text>
+<rect data-step="6" x="420" y="915" width="720" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="6" x="780" y="996" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">話し合いに加われる専門性</text>
+</svg>
