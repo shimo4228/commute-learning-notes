@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2148B8"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#2148B8">判断と測定　第13回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">ドレイファスの技能習得モデル</text>
+<rect data-step="1" x="60" y="240" width="360" height="110" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="1" x="240" y="311" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">初心者</text>
+<text data-step="1" x="470" y="311" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">規則に従う</text>
+<line data-step="2" x1="240" y1="356" x2="240" y2="384" stroke="#242321" stroke-width="5"/>
+<rect data-step="2" x="60" y="390" width="360" height="110" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="2" x="240" y="461" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">上級の初心者</text>
+<text data-step="2" x="470" y="461" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">場面の相を見分ける</text>
+<line data-step="3" x1="240" y1="506" x2="240" y2="534" stroke="#242321" stroke-width="5"/>
+<rect data-step="3" x="60" y="540" width="360" height="110" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="3" x="240" y="611" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">一人前</text>
+<text data-step="3" x="470" y="611" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">見方を選び、引き受ける</text>
+<line data-step="4" x1="240" y1="656" x2="240" y2="684" stroke="#242321" stroke-width="5"/>
+<rect data-step="4" x="60" y="690" width="360" height="110" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="4" x="240" y="761" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">習熟者</text>
+<text data-step="4" x="470" y="761" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">見えて、どうするか考える</text>
+<line data-step="5" x1="240" y1="806" x2="240" y2="834" stroke="#2148B8" stroke-width="7"/>
+<rect data-step="5" x="60" y="840" width="360" height="110" rx="16" fill="#FAFAF7" stroke="#2148B8" stroke-width="7"/>
+<text data-step="5" x="240" y="911" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#2148B8">熟達者</text>
+<text data-step="5" x="470" y="911" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#2148B8">見えて、もう動く</text>
+<line data-step="6" x1="640" y1="1040" x2="640" y2="940" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<text data-step="6" x="470" y="1105" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#242321">批判</text>
+<text data-step="6" x="575" y="1105" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">ふだんも先を読む</text>
+</svg>

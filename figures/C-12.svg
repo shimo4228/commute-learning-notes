@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#63365F"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#63365F">概念工学　第12回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">概念の分割</text>
+<text data-step="1" x="195" y="278" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#63365F">分割</text>
+<rect data-step="1" x="60" y="300" width="270" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="1" x="195" y="382" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="46" fill="#242321">ジェード</text>
+<text data-step="2" x="451" y="338" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#242321">名前を分ける</text>
+<line data-step="2" x1="345" y1="370" x2="550" y2="370" stroke="#63365F" stroke-width="7" marker-end="url(#aa)"/>
+<rect data-step="3" x="565" y="300" width="260" height="130" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="7"/>
+<text data-step="3" x="695" y="382" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="46" fill="#63365F">軟玉</text>
+<rect data-step="3" x="880" y="300" width="260" height="130" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="7"/>
+<text data-step="3" x="1010" y="382" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="46" fill="#63365F">硬玉</text>
+<text data-step="4" x="852" y="505" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#63365F">どの石もどちらかに入る</text>
+<text data-step="5" x="195" y="618" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#242321">曖昧さ</text>
+<rect data-step="5" x="60" y="640" width="270" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="5" x="195" y="722" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="46" fill="#242321">赤いトマト</text>
+<text data-step="6" x="451" y="678" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#242321">名前を分ける</text>
+<line data-step="6" x1="345" y1="710" x2="550" y2="710" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-step="7" x="565" y="640" width="282" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="7" x="706" y="722" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="46" fill="#242321">赤</text>
+<rect data-step="7" x="858" y="640" width="282" height="130" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="7" x="999" y="722" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="46" fill="#242321">橙</text>
+<line data-step="8" x1="852" y1="840" x2="852" y2="785" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<text data-step="8" x="852" y="895" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">境目でまた迷う</text>
+<rect data-step="9" x="60" y="970" width="1080" height="150" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="7"/>
+<text data-step="9" x="600" y="1062" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="50" fill="#63365F">分けて扱うかは目的しだい</text>
+</svg>
