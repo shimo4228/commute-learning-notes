@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#008A4B"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#008A4B">確率と情報理論　第13回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">相互情報量</text>
+<text data-step="1" x="600" y="290" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">聞く前の読めなさ</text>
+<rect data-step="1" x="60" y="315" width="1080" height="110" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="1" x="600" y="388" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#242321">1.75ビット</text>
+<line data-step="2" x1="600" y1="440" x2="600" y2="550" stroke="#008A4B" stroke-width="7" marker-end="url(#aa)"/>
+<text data-step="2" x="640" y="510" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#008A4B">知らせを聞く</text>
+<rect data-step="3" x="60" y="570" width="500" height="180" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="3" x="310" y="648" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="46" fill="#242321">「赤」</text>
+<text data-step="3" x="310" y="718" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">残り 0</text>
+<rect data-step="3" x="640" y="570" width="500" height="180" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="3" x="890" y="648" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="46" fill="#242321">「赤じゃない」</text>
+<text data-step="3" x="890" y="718" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">残り 1.5</text>
+<text data-step="4" x="600" y="835" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">来る回数で平均</text>
+<rect data-step="5" x="60" y="875" width="455" height="120" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="5" x="287" y="950" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">残った分 0.75</text>
+<text data-step="5" x="287" y="1065" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">条件付きエントロピー</text>
+<rect data-step="6" x="531" y="875" width="609" height="120" rx="16" fill="#FAFAF7" stroke="#008A4B" stroke-width="7"/>
+<text data-step="6" x="835" y="950" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="46" fill="#008A4B">減った分 1</text>
+<text data-step="6" x="835" y="1065" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#008A4B">相互情報量</text>
+</svg>
