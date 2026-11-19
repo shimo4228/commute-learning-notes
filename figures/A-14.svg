@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2148B8"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#2148B8">判断と測定　第14回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">クラインの認識主導意思決定</text>
+<rect data-step="1" x="60" y="235" width="740" height="110" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="1" x="430" y="306" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="46" fill="#242321">場面を見分ける</text>
+<line data-step="2" x1="430" y1="350" x2="430" y2="402" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-step="2" x="60" y="410" width="740" height="250" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="2" x="430" y="475" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#242321">一緒に来る四つ</text>
+<text data-step="2" x="245" y="555" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">手がかり</text>
+<text data-step="2" x="615" y="555" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">見込み</text>
+<text data-step="2" x="245" y="630" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">目標</text>
+<text data-step="2" x="615" y="630" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">打ち手</text>
+<polyline data-step="3" points="805,540 880,540 880,290 812,290" fill="none" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<text data-step="3" x="1015" y="370" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">見込みが</text>
+<text data-step="3" x="1015" y="420" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">外れたら</text>
+<text data-step="3" x="1015" y="470" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">読み直す</text>
+<line data-step="4" x1="430" y1="665" x2="430" y2="717" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-step="4" x="60" y="725" width="740" height="110" rx="16" fill="#FAFAF7" stroke="#2148B8" stroke-width="7"/>
+<text data-step="4" x="430" y="796" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="46" fill="#2148B8">頭の中で試す</text>
+<line data-step="5" x1="400" y1="843" x2="205" y2="900" stroke="#2148B8" stroke-width="7" marker-end="url(#aa)"/>
+<line data-step="5" x1="430" y1="843" x2="430" y2="898" stroke="#2148B8" stroke-width="7" marker-end="url(#aa)"/>
+<line data-step="5" x1="460" y1="843" x2="655" y2="900" stroke="#2148B8" stroke-width="7" marker-end="url(#aa)"/>
+<rect data-step="6" x="60" y="910" width="240" height="120" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="6" x="180" y="986" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">実行</text>
+<rect data-step="6" x="310" y="910" width="240" height="120" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="6" x="430" y="986" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">手直し</text>
+<rect data-step="6" x="560" y="910" width="240" height="120" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="6" x="680" y="986" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">次の案へ</text>
+<text data-step="7" x="600" y="1120" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">見分けは直観、試すのは分析</text>
+</svg>
