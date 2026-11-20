@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#63365F"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#63365F">概念工学　第14回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">概念の倫理</text>
+<text data-step="1" x="600" y="285" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#242321">結論</text>
+<rect data-step="1" x="200" y="310" width="800" height="190" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="1" x="600" y="387" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="46" fill="#242321">「いい休日」を</text>
+<text data-step="1" x="600" y="460" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="46" fill="#63365F">ぐっすり休めた日に</text>
+<text data-step="2" x="600" y="635" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">理由の中の「いい休日」</text>
+<line data-step="3" x1="290" y1="725" x2="290" y2="515" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-step="3" x="60" y="740" width="460" height="210" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-step="3" x="290" y="830" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">遠出して楽しめた日</text>
+<text data-step="3" x="290" y="900" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">いまの意味</text>
+<text data-step="4" x="290" y="1050" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="48" fill="#242321">はしごを登る議論</text>
+<line data-step="5" x1="875" y1="725" x2="875" y2="515" stroke="#63365F" stroke-width="7" marker-end="url(#aa)"/>
+<line data-step="5" x1="945" y1="515" x2="945" y2="725" stroke="#63365F" stroke-width="7" marker-end="url(#aa)"/>
+<rect data-step="5" x="680" y="740" width="460" height="210" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="7"/>
+<text data-step="5" x="910" y="830" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#63365F">ぐっすり休めた日</text>
+<text data-step="5" x="910" y="900" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#63365F">勧めたい意味</text>
+<text data-step="6" x="910" y="1050" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="48" fill="#63365F">輪の議論</text>
+</svg>
