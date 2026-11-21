@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#63365F"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#63365F">概念工学　第15回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">哲学とは概念の創造である</text>
+<text x="600" y="262" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#63365F">問題</text>
+<rect x="240" y="285" width="720" height="125" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="7"/>
+<text x="600" y="364" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="46" fill="#63365F">夕方までに乾かしたい</text>
+<line x1="600" y1="422" x2="600" y2="505" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<text x="780" y="478" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#242321">成分を選ぶ</text>
+<rect x="60" y="520" width="340" height="120" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text x="230" y="596" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">晴れ</text>
+<rect x="430" y="520" width="340" height="120" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text x="600" y="596" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">風</text>
+<rect x="800" y="520" width="340" height="120" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text x="970" y="596" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">乾いた空気</text>
+<line x1="250" y1="652" x2="470" y2="752" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<line x1="600" y1="652" x2="600" y2="752" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<line x1="950" y1="652" x2="730" y2="752" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<rect x="300" y="762" width="600" height="140" rx="16" fill="#FAFAF7" stroke="#63365F" stroke-width="7"/>
+<text x="600" y="848" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="48" fill="#63365F">概念「干し日和」</text>
+<text x="600" y="990" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">困りごとが変われば成分も変わる</text>
+<text x="600" y="1065" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">よく組まれているかで測る</text>
+</svg>
