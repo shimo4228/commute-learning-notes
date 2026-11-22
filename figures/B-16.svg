@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#242321"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#008A4B"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FAFAF7"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#008A4B">確率と情報理論　第16回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#242321">言語モデルの確率</text>
+<text data-section="1" x="60" y="252" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#008A4B">softmax</text>
+<text data-section="1" x="305" y="252" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#242321">散歩</text>
+<text data-section="1" x="420" y="252" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#242321">昼寝</text>
+<text data-section="1" x="535" y="252" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#242321">買い物</text>
+<rect data-section="1" x="60" y="275" width="540" height="110" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-section="1" x="84" y="345" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">点数</text>
+<text data-section="1" x="305" y="347" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#242321">3</text>
+<text data-section="1" x="420" y="347" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#242321">2</text>
+<text data-section="1" x="535" y="347" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#242321">2</text>
+<line data-section="1" x1="330" y1="390" x2="330" y2="468" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<text data-section="1" x="306" y="444" text-anchor="end" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#242321">2^s</text>
+<rect data-section="1" x="60" y="475" width="540" height="110" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-section="1" x="84" y="545" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">重み</text>
+<text data-section="1" x="305" y="547" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#242321">8</text>
+<text data-section="1" x="420" y="547" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#242321">4</text>
+<text data-section="1" x="535" y="547" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#242321">4</text>
+<line data-section="1" x1="330" y1="590" x2="330" y2="668" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<text data-section="1" x="306" y="644" text-anchor="end" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#242321">÷16</text>
+<rect data-section="1" x="60" y="675" width="540" height="110" rx="16" fill="#FAFAF7" stroke="#008A4B" stroke-width="7"/>
+<text data-section="1" x="84" y="745" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#008A4B">確率</text>
+<text data-section="1" x="305" y="746" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#242321">1/2</text>
+<text data-section="1" x="420" y="746" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#242321">1/4</text>
+<text data-section="1" x="535" y="746" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#242321">1/4</text>
+<line data-section="2" x1="330" y1="792" x2="330" y2="868" stroke="#242321" stroke-width="5" marker-end="url(#ai)"/>
+<text data-section="2" x="306" y="844" text-anchor="end" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#242321">log2</text>
+<rect data-section="2" x="60" y="875" width="540" height="110" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-section="2" x="80" y="945" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">対数確率</text>
+<text data-section="2" x="305" y="947" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#242321">−1</text>
+<text data-section="2" x="420" y="947" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#242321">−2</text>
+<text data-section="2" x="535" y="947" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#242321">−2</text>
+<rect data-section="3" x="700" y="275" width="440" height="110" rx="16" fill="#FAFAF7" stroke="#008A4B" stroke-width="7"/>
+<text data-section="3" x="920" y="346" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#008A4B">温度 T</text>
+<path data-section="3" d="M920,389 L920,430 L350,430" fill="none" stroke="#008A4B" stroke-width="7" marker-end="url(#aa)"/>
+<text data-section="3" x="650" y="416" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#008A4B">÷T</text>
+<rect data-section="3" x="735" y="490" width="60" height="150" fill="#242321"/>
+<rect data-section="3" x="815" y="630" width="60" height="10" fill="#242321"/>
+<rect data-section="3" x="975" y="540" width="60" height="100" fill="#242321"/>
+<rect data-section="3" x="1055" y="590" width="60" height="50" fill="#242321"/>
+<line data-section="3" x1="715" y1="640" x2="1135" y2="640" stroke="#242321" stroke-width="5"/>
+<text data-section="3" x="805" y="692" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">T小</text>
+<text data-section="3" x="1045" y="692" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">T大</text>
+<text data-section="3" x="920" y="760" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#242321">順位は同じ</text>
+<rect data-section="4" x="700" y="840" width="440" height="145" rx="16" fill="#FAFAF7" stroke="#242321" stroke-width="5"/>
+<text data-section="4" x="920" y="900" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#242321">言葉で「9割」</text>
+<text data-section="4" x="920" y="958" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#242321">8〜10割、5刻み</text>
+</svg>
