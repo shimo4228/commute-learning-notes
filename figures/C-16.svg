@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1A1A1A"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#058CB8"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FBF8EF"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#1A1A1A">概念工学　第16回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#1A1A1A">辞書は記述か規範か</text>
+<rect data-section="1" x="60" y="280" width="380" height="150" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="250" y="372" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="46" fill="#1A1A1A">人々の使い方</text>
+<rect data-section="1" x="760" y="280" width="380" height="150" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="950" y="374" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="52" fill="#1A1A1A">辞書</text>
+<text data-section="1" x="600" y="296" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#1A1A1A">写す</text>
+<line data-section="1" x1="452" y1="318" x2="748" y2="318" stroke="#1A1A1A" stroke-width="5" marker-end="url(#ai)"/>
+<text data-section="1" x="600" y="368" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#1A1A1A">用例を集めて</text>
+<line data-section="2" x1="748" y1="400" x2="452" y2="400" stroke="#1A1A1A" stroke-width="5" marker-end="url(#ai)"/>
+<text data-section="2" x="600" y="460" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#1A1A1A">定める</text>
+<text data-section="2" x="600" y="512" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#1A1A1A">丸ごとは固定できない</text>
+<text data-section="2" x="600" y="566" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#1A1A1A">何のために</text>
+<line data-section="3" x1="950" y1="442" x2="950" y2="688" stroke="#058CB8" stroke-width="7" marker-end="url(#aa)"/>
+<text data-section="3" x="925" y="645" text-anchor="end" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#058CB8">手本として読む</text>
+<rect data-section="3" x="760" y="700" width="380" height="150" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="3" x="950" y="792" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="46" fill="#1A1A1A">読む人</text>
+<polyline data-section="3" points="748,775 250,775 250,442" fill="none" stroke="#1A1A1A" stroke-width="5" stroke-linejoin="round" marker-end="url(#ai)"/>
+<text data-section="3" x="500" y="752" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#1A1A1A">また使う</text>
+<rect data-section="3" x="60" y="940" width="1080" height="160" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="3" x="600" y="1037" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="48" fill="#1A1A1A">まず鏡であることで、鑑になりうる</text>
+</svg>

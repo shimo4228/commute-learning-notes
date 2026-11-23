@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1A1A1A"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#058CB8"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FBF8EF"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#1A1A1A">判断と測定　第17回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#1A1A1A">事例で基準を共有する</text>
+<text data-section="1" x="60" y="262" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#1A1A1A">アンカー事例</text>
+<rect data-section="1" x="170" y="290" width="240" height="90" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="290" y="350" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">見本</text>
+<rect data-section="1" x="790" y="290" width="240" height="90" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="910" y="350" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">見本</text>
+<line data-section="1" x1="290" y1="380" x2="290" y2="440" stroke="#1A1A1A" stroke-width="5"/>
+<line data-section="1" x1="910" y1="380" x2="910" y2="440" stroke="#1A1A1A" stroke-width="5"/>
+<line data-section="1" x1="60" y1="440" x2="1140" y2="440" stroke="#1A1A1A" stroke-width="5"/>
+<line data-section="2" x1="600" y1="410" x2="600" y2="470" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="290" y="512" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#1A1A1A">もう一歩</text>
+<text data-section="1" x="910" y="512" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#1A1A1A">合格</text>
+<rect data-section="2" x="480" y="290" width="240" height="90" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="2" x="600" y="350" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#1A1A1A">境目の見本</text>
+<line data-section="2" x1="600" y1="383" x2="600" y2="410" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="2" x="60" y="600" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#1A1A1A">評定者の較正</text>
+<rect data-section="2" x="60" y="625" width="340" height="95" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="2" x="230" y="688" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">評定者</text>
+<text data-section="2" x="596" y="650" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#1A1A1A">合わせる</text>
+<line data-section="2" x1="412" y1="680" x2="778" y2="680" stroke="#1A1A1A" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-section="2" x="792" y="625" width="348" height="95" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="2" x="966" y="688" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">見本の点</text>
+<text data-section="3" x="60" y="808" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#1A1A1A">モデレーション</text>
+<rect data-section="3" x="60" y="833" width="340" height="95" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="3" x="230" y="896" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">学校の点</text>
+<rect data-section="3" x="792" y="833" width="348" height="95" rx="16" fill="#FBF8EF" stroke="#058CB8" stroke-width="7"/>
+<text data-section="3" x="966" y="896" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#058CB8">外の目</text>
+<text data-section="3" x="596" y="858" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#1A1A1A">付け直す</text>
+<line data-section="3" x1="778" y1="882" x2="414" y2="882" stroke="#1A1A1A" stroke-width="5" marker-end="url(#ai)"/>
+<text data-section="4" x="596" y="930" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#1A1A1A">まとめて直す</text>
+<text data-section="4" x="60" y="1016" font-family="Noto Sans CJK JP" font-weight="bold" font-size="44" fill="#1A1A1A">評定者のドリフト</text>
+<rect data-section="4" x="60" y="1041" width="340" height="95" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="4" x="230" y="1104" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">前の年の目</text>
+<text data-section="4" x="596" y="1066" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#1A1A1A">皆で動く</text>
+<line data-section="4" x1="412" y1="1090" x2="778" y2="1090" stroke="#1A1A1A" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-section="4" x="792" y="1041" width="348" height="95" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="4" x="966" y="1104" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">今年の目</text>
+</svg>
