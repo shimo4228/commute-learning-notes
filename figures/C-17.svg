@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#058CB8"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FBF8EF"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#1A1A1A">概念工学　第17回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#1A1A1A">AIが概念を割る</text>
+<text data-section="1" x="660" y="268" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#1A1A1A">調べる問い</text>
+<rect data-section="1" x="60" y="300" width="360" height="170" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="240" y="372" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="46" fill="#1A1A1A">「理解」</text>
+<text data-section="1" x="240" y="438" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">説明・指す</text>
+<line data-section="1" x1="430" y1="385" x2="490" y2="385" stroke="#058CB8" stroke-width="7" marker-end="url(#aa)"/>
+<rect data-section="1" x="500" y="320" width="320" height="130" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="660" y="400" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">力があるか</text>
+<text data-section="2" x="990" y="268" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#1A1A1A">選ぶ問い</text>
+<rect data-section="2" x="840" y="320" width="300" height="130" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="2" x="990" y="400" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">どちらに名を</text>
+<rect data-section="2" x="60" y="550" width="360" height="170" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="2" x="240" y="652" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="46" fill="#1A1A1A">「幻覚」</text>
+<line data-section="2" x1="430" y1="635" x2="490" y2="635" stroke="#058CB8" stroke-width="7" marker-end="url(#aa)"/>
+<rect data-section="2" x="500" y="570" width="320" height="130" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="2" x="660" y="626" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">見立ては</text>
+<text data-section="2" x="660" y="676" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">合うか</text>
+<rect data-section="2" x="840" y="570" width="300" height="130" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="2" x="990" y="650" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">どの名前か</text>
+<rect data-section="3" x="60" y="800" width="360" height="170" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="3" x="240" y="900" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#1A1A1A">「エージェント」</text>
+<line data-section="3" x1="430" y1="885" x2="490" y2="885" stroke="#058CB8" stroke-width="7" marker-end="url(#aa)"/>
+<rect data-section="3" x="500" y="820" width="320" height="130" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="3" x="660" y="900" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">目盛りの位置</text>
+<rect data-section="3" x="840" y="820" width="300" height="130" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="3" x="990" y="900" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">どの段から</text>
+</svg>

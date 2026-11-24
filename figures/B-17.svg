@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1A1A1A"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#058CB8"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FBF8EF"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#1A1A1A">確率と情報理論　第17回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#1A1A1A">変分推論の直感</text>
+<text data-section="1" x="330" y="262" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#1A1A1A">p(o, s)</text>
+<rect data-section="1" x="60" y="290" width="150" height="110" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="135" y="363" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#1A1A1A">ア</text>
+<rect data-section="1" x="255" y="290" width="150" height="110" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="330" y="363" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#1A1A1A">イ</text>
+<rect data-section="1" x="450" y="290" width="150" height="110" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="525" y="363" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#1A1A1A">ウ</text>
+<line data-section="1" x1="140" y1="406" x2="298" y2="490" stroke="#1A1A1A" stroke-width="5" marker-end="url(#ai)"/>
+<line data-section="1" x1="330" y1="406" x2="330" y2="490" stroke="#1A1A1A" stroke-width="5" marker-end="url(#ai)"/>
+<line data-section="1" x1="520" y1="406" x2="362" y2="490" stroke="#1A1A1A" stroke-width="5" marker-end="url(#ai)"/>
+<text data-section="1" x="150" y="478" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#1A1A1A">足す</text>
+<rect data-section="1" x="60" y="500" width="540" height="120" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="330" y="576" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#1A1A1A">エビデンス p(o)</text>
+<rect data-section="2" x="60" y="720" width="180" height="120" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="2" x="150" y="797" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="52" fill="#1A1A1A">q</text>
+<text data-section="2" x="320" y="758" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#1A1A1A">KL</text>
+<line data-section="2" x1="250" y1="780" x2="388" y2="780" stroke="#1A1A1A" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-section="2" x="400" y="720" width="200" height="120" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="2" x="500" y="796" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="46" fill="#1A1A1A">p(s|o)</text>
+<text data-section="2" x="500" y="900" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#1A1A1A">p(o) が要る</text>
+<text data-section="3" x="1140" y="300" text-anchor="end" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">log2 p(o)</text>
+<line data-section="3" x1="700" y1="325" x2="1140" y2="325" stroke="#1A1A1A" stroke-width="5"/>
+<line data-section="3" x1="745" y1="340" x2="745" y2="585" stroke="#1A1A1A" stroke-width="5" marker-start="url(#ai)" marker-end="url(#ai)"/>
+<text data-section="3" x="775" y="478" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#1A1A1A">KL</text>
+<text data-section="3" x="1140" y="575" text-anchor="end" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#058CB8">ELBO</text>
+<line data-section="3" x1="700" y1="600" x2="1140" y2="600" stroke="#058CB8" stroke-width="7"/>
+<text data-section="3" x="700" y="652" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#1A1A1A">p(o) なしで出る</text>
+<line data-section="3" x1="1070" y1="725" x2="1070" y2="616" stroke="#058CB8" stroke-width="7" marker-end="url(#aa)"/>
+<text data-section="3" x="1045" y="716" text-anchor="end" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#058CB8">上げる</text>
+<rect data-section="4" x="700" y="780" width="440" height="120" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="4" x="920" y="856" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">q が0の所は足さない</text>
+<line data-section="4" x1="920" y1="906" x2="920" y2="972" stroke="#1A1A1A" stroke-width="5" marker-end="url(#ai)"/>
+<text data-section="4" x="920" y="1030" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">狭くまとまりやすい</text>
+</svg>
