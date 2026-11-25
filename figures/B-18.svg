@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<rect width="1200" height="1200" fill="#FBF8EF"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#1A1A1A">確率と情報理論　第18回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#1A1A1A">自由エネルギー原理の式を読む</text>
+<line data-section="2" x1="480" y1="318" x2="480" y2="968" stroke="#1A1A1A" stroke-width="5" stroke-dasharray="18 12"/>
+<text data-section="1" x="120" y="300" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#1A1A1A">q ＝ 袋アだけ</text>
+<rect data-section="1" x="120" y="325" width="540" height="120" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="692" y="402" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#1A1A1A">F ＝ 3</text>
+<rect data-section="2" x="480" y="325" width="180" height="120" fill="#058CB8" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="2" x="300" y="400" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">観測の驚き 2</text>
+<text data-section="2" x="570" y="400" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#FBF8EF">KL 1</text>
+<text data-section="2" x="120" y="545" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#1A1A1A">q ＝ 袋イだけ</text>
+<rect data-section="2" x="120" y="570" width="360" height="120" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<rect data-section="2" x="480" y="570" width="360" height="120" fill="#058CB8" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="2" x="300" y="645" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">2</text>
+<text data-section="2" x="660" y="645" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#FBF8EF">KL 2</text>
+<text data-section="2" x="872" y="647" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#1A1A1A">F ＝ 4</text>
+<text data-section="2" x="480" y="1022" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#1A1A1A">F はこの線より小さくならない</text>
+<text data-section="3" x="120" y="790" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#1A1A1A">q ＝ 事後分布</text>
+<rect data-section="3" x="120" y="815" width="360" height="120" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="3" x="300" y="890" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">2</text>
+<text data-section="3" x="512" y="892" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#1A1A1A">F ＝ 2</text>
+<text data-section="4" x="480" y="1092" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#1A1A1A">線を動かすのは o と p</text>
+</svg>

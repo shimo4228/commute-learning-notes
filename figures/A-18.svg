@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1A1A1A"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FBF8EF"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#1A1A1A">判断と測定　第18回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#1A1A1A">比較判断</text>
+<rect data-section="1" x="150" y="255" width="260" height="105" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="280" y="325" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#1A1A1A">A</text>
+<rect data-section="1" x="790" y="255" width="260" height="105" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="920" y="325" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#1A1A1A">B</text>
+<line data-section="1" x1="424" y1="307" x2="776" y2="307" stroke="#1A1A1A" stroke-width="5" marker-start="url(#ai)" marker-end="url(#ai)"/>
+<text data-section="1" x="600" y="283" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#1A1A1A">どちらがよいか</text>
+<text data-section="1" x="600" y="357" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#1A1A1A">点は付けない</text>
+<text data-section="2" x="600" y="440" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#1A1A1A">甘さ辛さは消える</text>
+<line data-section="2" x1="60" y1="610" x2="1140" y2="610" stroke="#1A1A1A" stroke-width="5"/>
+<circle data-section="2" cx="300" cy="610" r="16" fill="#1A1A1A"/>
+<circle data-section="2" cx="620" cy="610" r="16" fill="#1A1A1A"/>
+<path data-section="2" d="M300,588 Q460,498 620,588" fill="none" stroke="#058CB8" stroke-width="7"/>
+<text data-section="2" x="664" y="562" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#058CB8">3回に2回勝てば差1</text>
+<text data-section="2" x="1140" y="674" text-anchor="end" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#1A1A1A">ゼロは決まらない</text>
+<text data-section="4" x="600" y="762" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#1A1A1A">近い組を比べる</text>
+<line data-section="3" x1="60" y1="850" x2="1140" y2="850" stroke="#1A1A1A" stroke-width="5"/>
+<circle data-section="3" cx="110" cy="850" r="16" fill="#1A1A1A"/>
+<circle data-section="3" cx="304" cy="850" r="16" fill="#1A1A1A"/>
+<circle data-section="3" cx="498" cy="850" r="16" fill="#1A1A1A"/>
+<circle data-section="3" cx="702" cy="850" r="16" fill="#1A1A1A"/>
+<circle data-section="3" cx="896" cy="850" r="16" fill="#1A1A1A"/>
+<circle data-section="3" cx="1090" cy="850" r="16" fill="#1A1A1A"/>
+<path data-section="4" d="M130,832 Q207,792 284,832" fill="none" stroke="#1A1A1A" stroke-width="5"/>
+<path data-section="4" d="M324,832 Q401,792 478,832" fill="none" stroke="#1A1A1A" stroke-width="5"/>
+<path data-section="4" d="M518,832 Q600,792 682,832" fill="none" stroke="#1A1A1A" stroke-width="5"/>
+<path data-section="4" d="M722,832 Q799,792 876,832" fill="none" stroke="#1A1A1A" stroke-width="5"/>
+<path data-section="4" d="M916,832 Q993,792 1070,832" fill="none" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="4" x="110" y="924" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#1A1A1A">全敗</text>
+<text data-section="4" x="1090" y="924" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#1A1A1A">全勝</text>
+<path data-section="4" d="M110,945 Q600,1110 1090,945" fill="none" stroke="#1A1A1A" stroke-width="5" stroke-dasharray="22 14"/>
+<text data-section="4" x="600" y="1092" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#1A1A1A">勝ち返す機会が無い</text>
+</svg>
