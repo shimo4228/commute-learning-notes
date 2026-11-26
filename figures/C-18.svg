@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1A1A1A"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FBF8EF"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#1A1A1A">概念工学　第18回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#1A1A1A">用語を作る技術</text>
+<rect data-section="1" x="60" y="250" width="380" height="120" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="250" y="326" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#1A1A1A">名前を付ける</text>
+<line data-section="1" x1="452" y1="310" x2="598" y2="310" stroke="#1A1A1A" stroke-width="5" marker-end="url(#ai)"/>
+<text data-section="1" x="524" y="290" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#1A1A1A">結ぶ</text>
+<rect data-section="1" x="612" y="250" width="420" height="120" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="822" y="326" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#1A1A1A">動かない目印</text>
+<text data-section="1" x="822" y="428" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#1A1A1A">見立ては入れない</text>
+<line data-section="2" x1="250" y1="382" x2="250" y2="531" stroke="#1A1A1A" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-section="2" x="60" y="545" width="380" height="120" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="2" x="250" y="621" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#1A1A1A">例を添える</text>
+<line data-section="3" x1="452" y1="595" x2="518" y2="595" stroke="#1A1A1A" stroke-width="5"/>
+<rect data-section="3" x="520" y="530" width="290" height="130" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="3" x="665" y="584" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">冷ややっこ</text>
+<text data-section="3" x="665" y="636" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">＋ごま油</text>
+<rect data-section="3" x="850" y="530" width="290" height="130" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="3" x="995" y="584" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">カップ麺</text>
+<text data-section="3" x="995" y="636" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">＋酢</text>
+<line data-section="3" x1="665" y1="672" x2="818" y2="726" stroke="#1A1A1A" stroke-width="5" marker-end="url(#ai)"/>
+<line data-section="3" x1="995" y1="672" x2="842" y2="726" stroke="#1A1A1A" stroke-width="5" marker-end="url(#ai)"/>
+<text data-section="3" x="830" y="784" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">共通点が意味になる</text>
+<line data-section="3" x1="250" y1="677" x2="250" y2="926" stroke="#1A1A1A" stroke-width="5" marker-end="url(#ai)"/>
+<line data-section="3" x1="60" y1="836" x2="1140" y2="836" stroke="#058CB8" stroke-width="7" stroke-dasharray="26 16"/>
+<text data-section="3" x="1140" y="900" text-anchor="end" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#058CB8">作る人の手を離れる</text>
+<rect data-section="3" x="60" y="940" width="380" height="120" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="3" x="250" y="1016" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#1A1A1A">使われる</text>
+<line data-section="3" x1="452" y1="1000" x2="558" y2="1000" stroke="#1A1A1A" stroke-width="5" marker-end="url(#ai)"/>
+<text data-section="3" x="575" y="1015" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#1A1A1A">意味が動いていく</text>
+</svg>
