@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<defs>
+<marker id="ai" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1A1A1A"/></marker>
+<marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#058CB8"/></marker>
+</defs>
+<rect width="1200" height="1200" fill="#FBF8EF"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#1A1A1A">判断と測定　第19回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#1A1A1A">LLMを評価者として測定論で見る</text>
+<text data-section="1" x="230" y="350" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#1A1A1A">置き場所</text>
+<text data-section="1" x="230" y="404" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#1A1A1A">入れ替える</text>
+<line data-section="1" x1="270" y1="428" x2="452" y2="522" stroke="#1A1A1A" stroke-width="5" marker-end="url(#ai)"/>
+<rect data-section="1" x="380" y="530" width="440" height="96" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="600" y="594" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="46" fill="#1A1A1A">判定器</text>
+<text data-section="2" x="600" y="350" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="40" fill="#1A1A1A">長さ</text>
+<text data-section="3" x="600" y="404" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#1A1A1A">中身をそろえる</text>
+<line data-section="2" x1="600" y1="428" x2="600" y2="520" stroke="#1A1A1A" stroke-width="5" marker-end="url(#ai)"/>
+<text data-section="3" x="415" y="252" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#1A1A1A">動かないはず</text>
+<polyline data-section="3" points="120,292 120,276 730,276 730,292" fill="none" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="3" x="975" y="252" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#058CB8">動くはず</text>
+<polyline data-section="3" points="865,292 865,276 1085,276 1085,292" fill="none" stroke="#058CB8" stroke-width="7"/>
+<text data-section="3" x="975" y="350" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#058CB8">中身の変化</text>
+<line data-section="3" x1="935" y1="380" x2="758" y2="518" stroke="#058CB8" stroke-width="7" marker-end="url(#aa)"/>
+<line data-section="4" x1="600" y1="636" x2="600" y2="740" stroke="#1A1A1A" stroke-width="5" marker-start="url(#ai)" marker-end="url(#ai)"/>
+<text data-section="4" x="636" y="702" font-family="Noto Sans CJK JP" font-weight="500" font-size="38" fill="#1A1A1A">一致</text>
+<rect data-section="4" x="380" y="750" width="440" height="96" rx="16" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="4" x="600" y="814" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="46" fill="#1A1A1A">人の判定</text>
+</svg>
