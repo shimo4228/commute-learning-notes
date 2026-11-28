@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<rect width="1200" height="1200" fill="#FBF8EF"/>
+<text x="60" y="95" font-family="Noto Sans CJK JP" font-weight="500" font-size="36" fill="#1A1A1A">確率と情報理論　第19回</text>
+<text x="60" y="178" font-family="Noto Serif CJK JP" font-weight="bold" font-size="60" fill="#1A1A1A">能動的推論</text>
+<text data-section="1" x="260" y="282" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#1A1A1A">好みの驚きの平均</text>
+<text data-section="1" x="60" y="385" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#1A1A1A">のぞく</text>
+<rect data-section="1" x="260" y="310" width="480" height="120" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="772" y="387" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#1A1A1A">2</text>
+<text data-section="1" x="60" y="545" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#1A1A1A">振る</text>
+<rect data-section="1" x="260" y="470" width="360" height="120" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="1" x="652" y="547" font-family="Noto Sans CJK JP" font-weight="500" font-size="48" fill="#1A1A1A">1.5</text>
+<rect data-section="2" x="500" y="310" width="240" height="120" fill="#058CB8" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="2" x="620" y="385" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#FBF8EF">情報利得 1</text>
+<text data-section="2" x="772" y="545" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">情報利得 0</text>
+<text data-section="3" x="380" y="385" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#1A1A1A">G ＝ 1</text>
+<text data-section="3" x="440" y="545" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#1A1A1A">G ＝ 1.5</text>
+<text data-section="3" x="260" y="672" font-family="Noto Sans CJK JP" font-weight="500" font-size="42" fill="#1A1A1A">G が小さいほうを選ぶ</text>
+<text data-section="4" x="260" y="782" font-family="Noto Sans CJK JP" font-weight="bold" font-size="40" fill="#1A1A1A">好みが平らなとき</text>
+<text data-section="4" x="60" y="885" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#1A1A1A">のぞく</text>
+<rect data-section="4" x="260" y="810" width="380" height="120" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<rect data-section="4" x="400" y="810" width="240" height="120" fill="#058CB8" stroke="#1A1A1A" stroke-width="5"/>
+<text data-section="4" x="520" y="885" text-anchor="middle" font-family="Noto Sans CJK JP" font-weight="bold" font-size="42" fill="#FBF8EF">情報利得 1</text>
+<text data-section="4" x="60" y="1035" font-family="Noto Sans CJK JP" font-weight="500" font-size="44" fill="#1A1A1A">振る</text>
+<rect data-section="4" x="260" y="960" width="380" height="120" fill="#FBF8EF" stroke="#1A1A1A" stroke-width="5"/>
+<line data-section="4" x1="640" y1="776" x2="640" y2="1126" stroke="#1A1A1A" stroke-width="5" stroke-dasharray="14 12"/>
+</svg>
